@@ -16,3 +16,8 @@
 - Bot to start placing the bets for me?
 
 Repeat for other racing.
+
+- Find stack overflow for data, there is a way to simply import time, then user imports number of races and race meeting --- URL is simple just date and meeting and race numbers.
+Use this to then automatically save all the data and run the analysis, can then just simply display the findings with the GUI?
+
+- Should be creating a JSON of all my doggos???
