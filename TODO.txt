@@ -1,0 +1,18 @@
+- Ensure 9 and 10 are going into right boxes.
+- Tidy the variable names currently overlap like crazy.
+- When run, analayse all races with only input the number of races in the day.
+
+- Create classes for track, trainer, dog.
+
+- Read through historical data.
+- Create bot to do so?
+
+- Create result.txt files for each race for machine learning and then output to .csv
+
+- Output expected vs results to .csv
+
+- Comparison of odds? Code to determine profitability.
+
+- Bot to start placing the bets for me?
+
+Repeat for other racing.

@@ -1,0 +1,448 @@
+TAB
+BEST BETS - EXTENDED FORM
+
+M3FORBURY PARK DOGS
+
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+R12
+R13
+R14
+R15
+R15RACING AGAIN TUESDAY 11 JUNE 310
+Started
+4.11pm
+C1
+NO.
+SILK
+FORM
+NAME
+BEST WIN
+EXPAND ALL
+COLLAPSE ALL
+01
+1
+52778
+Homebush Miles
+C1 18.46
+OVERVIEW
+Trainer:
+John McInerney (Darfield)
+Breeding:
+d black Apr 16 Homebush Chopper-Joyville
+Stats:
+All
+95:13:12:9:0
+Prize
+$22,760
+Track & Distance
+19:4:4
+Track
+20:4:4
+Sprint
+75:11:16
+Middle
+20:2:5
+Distance
+0:0:0
+Box 1
+15:3:5
+Box 2
+7:1:4
+Box 3
+13:1:2
+Box 4
+16:1:4
+Box 5
+12:2:2
+Box 6
+9:2:1
+Box 7
+14:1:2
+Box 8
+9:2:1
+Owners:
+J T McInerney
+Performance:
+Venue		Date	Finishing position	Class, Distance, Weight, Box	Race position, Favouritism, Times	Margins, 1st/2nd placed Greyhound
+OTGG	DUN	16 Apr 2019	7 days 5th of 8	C2 310m 33.2Kgs Box 7	565 $11.00 Time 18.60s Best 18.56s	Mgns 2hL2hL4tL Digger Ace
+SLDG	ASCP	23 Apr 2019	7 days 2nd of 8	C2 390m 33.2Kgs Box 1	632 $3.30 Time 22.82s Best 22.52s	Mgns 1hLn1hL Aroha
+OTGG	DUN	30 Apr 2019	7 days 7th of 8	C2 310m 33.3Kgs Box 1	777 $5.40 Time 18.50s Best 18.37s	Mgns 1tLtL1qL Loco Lola
+OTGG	DUN	14 May 2019	14 days 7th of 8	C2/3 310m 33Kgs Box 1	777 $5.70 Time 18.56s Best 18.32s	Mgns 2qLN3qL Homebush Finn
+CHCG	ADD	17 May 2019	3 days 8th of 8	C2 295m 32.6Kgs Box 5	888 $14.00 Time 17.60s Best 17.06s	Mgns 1qLhL1qL Broken Penniless
+Comment:
+Not racing well right now but give him another chance today.
+02
+2
+13127
+Taramakau
+C1 18.79
+OVERVIEW
+Trainer:
+John McInerney (Darfield)
+Breeding:
+d red fawn Mar 17 Cosmic Rumble-Dixie Lee
+Stats:
+All
+9:2:3:1:0
+Prize
+$2,840
+Track & Distance
+2:1:1
+Track
+2:1:1
+Sprint
+9:2:4
+Middle
+0:0:0
+Distance
+0:0:0
+Box 1
+2:0:2
+Box 2
+1:1:0
+Box 3
+2:1:1
+Box 4
+0:0:0
+Box 5
+1:0:1
+Box 6
+0:0:0
+Box 7
+2:0:0
+Box 8
+1:0:0
+Owners:
+J E Dunn
+Performance:
+Venue		Date	Finishing position	Class, Distance, Weight, Box	Race position, Favouritism, Times	Margins, 1st/2nd placed Greyhound
+SLDG	ASCP	07 May 2019	4 days 1st of 7	C0 390m 27.9Kgs Box 3	111 $4.00 Time 23.04s Best 22.25s	Mgns 2L1qL2qL Lozza The Rascal
+CHCG	ADD	10 May 2019	3 days 3rd of 8	C0 295m 28.5Kgs Box 1	333 $2.40 Time 17.48s Best 17.27s	Mgns 4tL1tLtL Knows No Better
+OTGG	DUN	14 May 2019	4 days 1st of 8	C1 310m 28.5Kgs Box 2	111 $5.20 Time 18.79s Best 18.32s	Mgns 1L2hL1hL Avalanch City
+SLDG	ASCP	21 May 2019	7 days 2nd of 7	C1 390m 0Kgs Box 1	212 $2.20 Time 22.99s Best 22.62s	Mgns hLtL2L Zip Zap Zoe
+CHCG	ADD	24 May 2019	3 days 7th of 8	C1 295m 29.1Kgs Box 7	877 $10.00 Time 17.39s Best 17.22s	Mgns 1tL2qL1qL Smash Empire
+Comment:
+Front-running win last time here and must be covered again.
+03
+3
+67665
+Homebush Maycee
+C1 18.55
+OVERVIEW
+Trainer:
+John McInerney (Darfield)
+Breeding:
+b black Jan 17 Homebush Chopper-Homebush Mayhem
+Stats:
+All
+70:8:6:10:0
+Prize
+$12,165
+Track & Distance
+17:4:2
+Track
+17:4:2
+Sprint
+61:8:13
+Middle
+9:0:3
+Distance
+0:0:0
+Box 1
+12:0:4
+Box 2
+8:0:4
+Box 3
+8:3:2
+Box 4
+8:0:3
+Box 5
+12:2:2
+Box 6
+8:3:0
+Box 7
+8:0:0
+Box 8
+6:0:1
+Owners:
+J T McInerney
+Performance:
+Venue		Date	Finishing position	Class, Distance, Weight, Box	Race position, Favouritism, Times	Margins, 1st/2nd placed Greyhound
+OTGG	DUN	16 Apr 2019	7 days 6th of 8	C2 310m 28.8Kgs Box 1	446 $5.10 Time 18.87s Best 18.56s	Mgns 1qLhL1hL Homebush Boots
+CHCG	ADD	18 Apr 2019	2 days 7th of 8	R/Aq 520m 29.1Kgs Box 3	85767 $69.00 Time 30.56s Best 30.02s	Mgns 1qL1tL3tL Busy Flash
+CHCG	ADD	03 May 2019	15 days 6th of 7	C2 295m 28.8Kgs Box 8	466 $27.00 Time 17.26s Best 17.20s	Mgns L3tLhL Sozin's Blue
+CHCG	ADD	10 May 2019	7 days 6th of 8	C2 520m 28.7Kgs Box 4	45556 $50.00 Time 30.24s Best 30.22s	Mgns 2hLL4qL Sailor Allen
+CHCG	ADD	24 May 2019	14 days 5th of 8	C1 520m 28.5Kgs Box 2	11345 $37.00 Time 30.60s Best 30.07s	Mgns hL1tL6hL Opawa Flash
+Comment:
+This suits her more and she can figure in the finish of this.
+04
+4
+3824X
+Pretty Keen
+C1 19.04
+OVERVIEW
+Trainer:
+Sandra Keen (Dunedin)
+Breeding:
+b black white Nov 16 Dream Collector-Sandi Claws
+Stats:
+All
+30:1:6:4:0
+Prize
+$3,923.25
+Track & Distance
+13:1:3
+Track
+13:1:3
+Sprint
+30:1:10
+Middle
+0:0:0
+Distance
+0:0:0
+Box 1
+1:0:0
+Box 2
+3:0:1
+Box 3
+5:0:1
+Box 4
+5:0:1
+Box 5
+5:1:3
+Box 6
+5:0:2
+Box 7
+3:0:0
+Box 8
+3:0:2
+Owners:
+KM Syndicate
+Performance:
+Venue		Date	Finishing position	Class, Distance, Weight, Box	Race position, Favouritism, Times	Margins, 1st/2nd placed Greyhound
+OTGG	DUN	29 Jan 2019	7 days 2nd of 8	SPEC 310m 25.8Kgs Box 6	332 $11.00 Time 18.66s Best 18.46s	Mgns tL1qLhL Homebush Pierce
+SLDG	ASCP	05 Feb 2019	7 days 3rd of 8	C1 390m 24.3Kgs Box 5	333 $6.50 Time 23.23s Best 22.68s	Mgns 3L1L1qL Homebush Maycee
+OTGG	DUN	12 Feb 2019	7 days 8th of 8	C1 310m 24.5Kgs Box 7	788 $15.00 Time 18.73s Best 18.41s	Mgns 1qL2L3L Nikko Baxter
+SLDG	ASCP	19 Feb 2019	7 days 2nd of 8	C1 390m 24.5Kgs Box 5	352 $9.50 Time 22.76s Best 22.74s	Mgns 7LhL1qL Trajan
+OTGG	DUN	26 Feb 2019	7 days 4th of 8	C1 310m 24.6Kgs Box 2	544 $7.00 Time 18.85s Best 18.41s	Mgns 1qLnn Memoir
+Comment:
+Fresh up today and is trialing well enough to place in this.
+05
+5
+57667
+Pukeko Rustler
+C1 19.13
+OVERVIEW
+Trainer:
+Barry Healey (Oamaru)
+Breeding:
+d brindle Oct 16 Dream Collector-Blushing Belle
+Stats:
+All
+21:2:3:1:0
+Prize
+$3,073
+Track & Distance
+13:2:3
+Track
+16:2:3
+Sprint
+17:2:4
+Middle
+4:0:0
+Distance
+0:0:0
+Box 1
+5:1:1
+Box 2
+1:0:1
+Box 3
+2:1:0
+Box 4
+3:0:0
+Box 5
+1:0:0
+Box 6
+3:0:1
+Box 7
+2:0:1
+Box 8
+4:0:0
+Owners:
+B R Healey
+Performance:
+Venue		Date	Finishing position	Class, Distance, Weight, Box	Race position, Favouritism, Times	Margins, 1st/2nd placed Greyhound
+OTGG	DUN	26 Feb 2019	14 days 5th of 8	C1 310m 30.6Kgs Box 4	785 $6.70 Time 19.03s Best 18.41s	Mgns 1qLtL2L Homebush Izzy
+OTGG	DUN	07 Mar 2019	9 days 7th of 8	C1 310m 31Kgs Box 6	677 $11.00 Time 18.73s Best 18.48s	Mgns 1qL1tLtL Dream Stone Jade
+OTGG	DUN	19 Mar 2019	12 days 6th of 7	C1 310m 31.2Kgs Box 5	776 $20.00 Time 18.62s Best 18.52s	Mgns 5qL1hLN Punch On Jessie
+SLDG	ASCP	31 Mar 2019	12 days 6th of 7	C1 457m 31.1Kgs Box 8	666 $19.00 Time 26.53s Best 25.76s	Mgns hHhH3L Blazing Banjo
+SLDG	ASCP	09 Apr 2019	9 days 7th of 7	C1 390m 30.7Kgs Box 1	777 $16.00 Time 22.69s Best 22.37s	Mgns 1hLtLtL Zip Zap Zoe
+Comment:
+Struggling for form and others make better reading in this.
+06
+6
+5245F
+Punch On Rex
+C1 nwtd
+OVERVIEW
+Trainer:
+John McInerney (Darfield)
+Breeding:
+d blue brindle Sep 17 Outa Credit-Punch On Jaime
+Stats:
+All
+21:1:4:2:0
+Prize
+$2,857
+Track & Distance
+7:0:2
+Track
+7:0:2
+Sprint
+19:1:6
+Middle
+2:0:0
+Distance
+0:0:0
+Box 1
+1:0:1
+Box 2
+2:0:1
+Box 3
+2:0:0
+Box 4
+3:0:2
+Box 5
+2:0:0
+Box 6
+4:0:2
+Box 7
+3:0:0
+Box 8
+4:1:0
+Owners:
+M W Bell
+Performance:
+Venue		Date	Finishing position	Class, Distance, Weight, Box	Race position, Favouritism, Times	Margins, 1st/2nd placed Greyhound
+OTGG	DUN	02 Apr 2019	2 days 5th of 8	C1 310m 31Kgs Box 5	345 $5.90 Time 18.93s Best 18.62s	Mgns tL1L2qL Digger Ace
+SLDG	ASCP	09 Apr 2019	7 days 2nd of 7	C1 390m 31.2Kgs Box 6	342 $6.90 Time 22.69s Best 22.37s	Mgns 1hLtLtL Zip Zap Zoe
+OTGG	DUN	16 Apr 2019	7 days 4th of 8	C1 310m 31.1Kgs Box 4	654 $6.50 Time 18.93s Best 18.56s	Mgns qL1qL1qL Ezra Blueblood
+SLDG	ASCP	23 Apr 2019	7 days 5th of 8	C1 390m 31.6Kgs Box 5	565 $3.70 Time 22.89s Best 22.52s	Mgns 2hLn2hL Homebush Austin
+OTGG	DUN	30 Apr 2019	7 days of 8	C1 310m 31.5Kgs Box 8	F88 $3.60 Time 18.75s Best 18.37s	Mgns H1hLN Homebush Velma
+Comment:
+Took a tumble when last here so confidence is the key today.
+07
+7
+21845
+Pacemaker
+C1 nwtd
+OVERVIEW
+Trainer:
+Ashley Bradshaw (Rangiora)
+Breeding:
+d black white Jan 17 Solve The Puzzle-Assert
+Stats:
+All
+15:1:5:4:0
+Prize
+$3,181
+Track & Distance
+2:0:2
+Track
+2:0:2
+Sprint
+15:1:9
+Middle
+0:0:0
+Distance
+0:0:0
+Box 1
+1:0:1
+Box 2
+3:1:1
+Box 3
+0:0:0
+Box 4
+1:0:0
+Box 5
+4:0:2
+Box 6
+0:0:0
+Box 7
+0:0:0
+Box 8
+6:0:5
+Owners:
+A Bradshaw & P Seque
+Performance:
+Venue		Date	Finishing position	Class, Distance, Weight, Box	Race position, Favouritism, Times	Margins, 1st/2nd placed Greyhound
+CHCG	ADD	22 Mar 2019	3 days 2nd of 8	C0q 295m 33.1Kgs Box 8	222 $2.90 Time 17.43s Best 17.31s	Mgns 2hL2tLn Tearaway Tara
+CHCG	ADD	26 Mar 2019	4 days 1st of 8	C0 295m 33Kgs Box 2	111 $1.90 Time 17.58s Best 17.16s	Mgns 2hLL2hL Homebush Velma
+CHCG	ADD	29 Mar 2019	3 days 8th of 8	C0f 295m 33Kgs Box 8	888 $2.40 Time 17.46s Best 17.34s	Mgns 1qLHtL Homebush Velma
+CHCG	ADD	14 May 2019	46 days 4th of 8	C1 295m 33.5Kgs Box 4	214 $3.60 Time 17.69s Best 17.30s	Mgns NhLn Goldstar Tasman
+CHCG	ADD	16 May 2019	2 days 5th of 8	R/Aq 295m 33.4Kgs Box 2	255 $14.00 Time 17.59s Best 17.09s	Mgns 2hLn1L Goldstar Major
+Comment:
+Often not far from the action and can figure in the finish of this.
+08
+8
+21248
+Lucy Lingers
+C1 18.99
+OVERVIEW
+Trainer:
+John McInerney (Darfield)
+Breeding:
+b white black Sep 17 Banjo Boy-Joyville
+Stats:
+All
+27:1:7:3:0
+Prize
+$3,914
+Track & Distance
+7:1:2
+Track
+7:1:2
+Sprint
+25:1:10
+Middle
+2:0:0
+Distance
+0:0:0
+Box 1
+4:0:2
+Box 2
+2:0:1
+Box 3
+2:0:0
+Box 4
+2:0:2
+Box 5
+2:0:1
+Box 6
+6:0:2
+Box 7
+5:1:1
+Box 8
+4:0:1
+Owners:
+The Middlemarch Syndicate
+Performance:
+Venue		Date	Finishing position	Class, Distance, Weight, Box	Race position, Favouritism, Times	Margins, 1st/2nd placed Greyhound
+CHCG	ADD	10 May 2019	24 days 2nd of 8	C0 295m 28.2Kgs Box 7	222 $9.80 Time 17.48s Best 17.27s	Mgns 4tL1tLtL Knows No Better
+OTGG	DUN	14 May 2019	4 days 1st of 8	C0 310m 28Kgs Box 7	111 $3.30 Time 18.99s Best 18.32s	Mgns 1tLhL1qL Goldstar Dayton
+CHCG	ADD	17 May 2019	3 days 2nd of 8	C0 295m 27.6Kgs Box 6	222 $2.40 Time 17.48s Best 17.06s	Mgns 3tL1tL2qL Fleur Dior
+SLDG	ASCP	21 May 2019	4 days 4th of 8	C1 390m 0Kgs Box 3	144 $22.00 Time 22.94s Best 22.62s	Mgns tLtL2L Black Bobby
+CHCG	ADD	24 May 2019	3 days 8th of 8	C1 295m 28.5Kgs Box 7	688 $14.00 Time 17.22s Best 17.22s	Mgns 2tL1L1qL Platinum Paisley
+Comment:
+In trouble last week but she could add to trifecta in this field.
+Back to top
