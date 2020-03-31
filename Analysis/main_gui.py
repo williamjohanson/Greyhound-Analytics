@@ -2,13 +2,36 @@
 import tkinter as tk
 from tkinter import *
 import os 
-import main
+from PIL import Image, ImageTk
+
+# Set canvas size variables.
+HEIGHT = 900
+WIDTH = 1500
 
 # GUI Setup. 
 root = tk.Tk()
 
-canvas = tk.Canvas(root, height=900, width=900, bg="#263D42")
+canvas = tk.Canvas(root, height=HEIGHT, width=WIDTH, bg="#263D42")
+
+background_image = ImageTk.PhotoImage(Image.open('bg.png'))
+background_label = Label(root, image=background_image)
+background_label.place(x=0, y=0, relwidth=1, relheight=1)
+
 canvas.pack()
+
+frame = Frame(root,  bg='#42c2f4', bd=5)
+frame.place(relx=0.5, rely=0.1, relwidth=0.75, relheight=0.1, anchor='n')
+
+lower_frame = tk.Frame(root, bg='#42c2f4', bd=10)
+lower_frame.place(relx=0.5, rely=0.25, relwidth=0.75, relheight=0.6, anchor='n')
+
+textbox = Entry(frame, font=40)
+textbox.place(relwidth=0.65, relheight=1)
+
+submit = Button(frame, text='Get Race Info', font=40, command=lambda: get_weather(textbox.get()))
+submit.place(relx=0.7, relheight=1, relwidth=0.3)
+
+"""
 
 frame = tk.Frame(root, bg="white")
 frame.place(relwidth=0.8, relheight=0.8, relx=0.1, rely=0.1)
@@ -23,6 +46,6 @@ raceDropdown = OptionMenu(root, tkvar, *race_numbers)
 raceDropdown.pack()
 
 global race_sel
-race_sel = tkvar.get()
+race_sel = tkvar.get()"""
 
 root.mainloop()

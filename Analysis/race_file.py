@@ -1,10 +1,10 @@
 # race_file.py
 # Return an array of lines for the file.
 
-def get_race_file():
+def get_race_file(race_num):
     """Find the race file which is  a copy into a text file from the extended form."""
-    name_file = input("What is the number of the race? ")
-    open_race_file = open("Race Data/race" + name_file + ".txt", 'r')
+    #name_file = input("What is the number of the race? ")
+    open_race_file = open('Race Data/' + race_num, 'r')
     race_file_lines = []
     line = open_race_file.readline()
     while line != "Back to top":

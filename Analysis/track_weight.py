@@ -1,3 +1,6 @@
+# track_weight.py
+# Add the bias of the dogs track and distance stats.
+
 import config
 
 def track_bias(weighted_dict, race_file):

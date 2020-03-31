@@ -10,6 +10,7 @@ def print_to_csv(value2, val, key):
 def print_grades(runner_dict, weighted_dict):     
     """Print the formatted grades."""
     value_array = []
+    final_str_result = ''
     sum = 0
     i = 0
     for key, value in weighted_dict.items():
@@ -23,5 +24,9 @@ def print_grades(runner_dict, weighted_dict):
                     if key == key2:
                         val = 1/(val / sum)
                         print_to_csv(value2, val, key)
-                        print("{} : ${:.2f} {}\n".format(value2, val, key))
+                        final_str = "{} : ${:.2f} {}\n".format(value2, val, key)
+                        final_str_result += final_str
+                        print(final_str)
                         i += 1  
+
+    return final_str_result
