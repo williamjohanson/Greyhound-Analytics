@@ -9,7 +9,7 @@ import time
 from bs4 import BeautifulSoup
 import html2text
 
-def extract_html(total_races):
+def extract_html(total_races, i):
     """ Parse the HTML into text. """
     filename = open("Race Data - test/file.html", 'r').read()
 
@@ -21,30 +21,25 @@ def extract_html(total_races):
 
     final_text = BeautifulSoup(main_text, 'html.parser')
 
-    for i in range(0, total_races + 1):
+    with open('Race Data - test/filea' + str(i) + '.txt', 'w') as out_txt_f:
+        out_txt_f.write(final_text.get_text())
+    
+    sec_filename = open("Race Data - test/filea" + str(i) + ".txt", 'r').read()
 
-        with open('Race Data - test/filea' + str(i) + '.txt', 'w') as out_txt_f:
-            out_txt_f.write(final_text.get_text())
-        
-        sec_filename = open("Race Data - test/filea" + str(i) + ".txt", 'r').read()
-
-        with open('Race Data - test/fileb' + str(i) + '.txt', 'w') as out_txt_b:
-            out_txt_b.write(h.handle(sec_filename))
+    with open('Race Data - test/fileb' + str(i) + '.txt', 'w') as out_txt_b:
+        out_txt_b.write(h.handle(sec_filename))
 
 
 def web_extract(meeting, total_races):
     """ Fill text files using web extraction - automating fills. """
-    #current = datetime.datetime.today()
-    #year = current.year
-    #month = current.month
-    #if month < 10: 
-    #    month = '0' + str(month)
-    #day = current.day
-    #if day < 10: 
-    #    day = '0' + str(day)
-    year = '2020'
-    month = '03'
-    day = '23'
+    current = datetime.datetime.today()
+    year = current.year
+    month = current.month
+    if month < 10: 
+        month = '0' + str(month)
+    day = current.day
+    if day < 10: 
+        day = '0' + str(day)
     driver = webdriver.Chrome()
 
     link_a = "https://new.tab.co.nz/extended-form/"
@@ -55,7 +50,7 @@ def web_extract(meeting, total_races):
         driver.get(url)
         driver.find_element_by_xpath('/html/body/div/div/main/div[2]/div[2]/div[2]/div[1]/span[6]/a').click()
         time.sleep(2)
-        driver.find_element_by_xpath('/html/body/div/div/main/div[2]/div[2]/div[1]/a/div[2]').click()
+        driver.find_element_by_xpath('/html/body/div/div/main/div[2]/div[2]/div[1]/a/div[2]').click() # Don't think this is doing meke.
         
         time.sleep(5)
 
@@ -66,7 +61,7 @@ def web_extract(meeting, total_races):
         with open('Race Data - test/file.html', 'w') as out_html_f:
             out_html_f.write(str(data.text.encode('utf-8')))
         
-        extract_html(total_races)
+        extract_html(total_races, i)
 
 
 

@@ -1,3 +1,6 @@
+# overall_weight.py
+
+# Imports.
 import config
 
 def overall_stat(race_file, weighted_dict):

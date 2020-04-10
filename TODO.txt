@@ -1,10 +1,41 @@
-- Ensure 9 and 10 are going into right boxes.
+How do i calculate the dog value?
+- init with the number of dog ratios.
+
+- Go through and then call each variable and multiply by config to then get a final sum? Do for each and update the dict value for each key?
+
+- Do another func which then does recent performance which i assume will be trickier. Again using a dict to update{greyhound object: its weighting}
+sum all weightings / its own weighting ???
+
+- Then final func compares them all and gives relative to the other dogs a chance.
+
+
+Print this all to the screen and also to a new csv file each time so have a tracking of the analysis when it occured.
+
+Can then compare that to the results and i dont know how to compare what actually happened to what happens as there is so many weighting combinations to arrive at the same answer??
+
+Do you keep iterating through until the weightings used matches the result?? Feel like this could continue to fluctuate dramatically rather than slowly (I control) towards the solution.
+Or is it just a controller???? Rate of change plus sum of changes plus proportional change??>??? is it just control oooh wee that will be fun. 
+
+Is this then works then maybe tidy new and old code into different folders?? 
+
+- Sort class data into relative ratios.
+- Reconfigure weighting value and csv file.
+- Wait for races to make sure the storing in text files actually works.
+- Calculate a value for each dog.
+
+- Output a race file for each analysis to then compare to the results??
+
+
+---------OLDER TODOS NOT SO RELEVANT.
+----Ensure 9 and 10 are going into right boxes.
+
 - Tidy the variable names currently overlap like crazy.
 
-- Create classes for track, trainer, dog.
+- Create classes for track, trainer. Maybe just needs to be variables that can access for analysis.
 
 - Read through historical data.
-- Create bot to do so?
+
+- Create web scraper to get the historical data first?
 
 - Create result.txt files for each race for machine learning and then output to .csv
 
@@ -14,9 +45,8 @@
 
 - Bot to start placing the bets for me?
 
+
+
 Repeat for other racing.
 
-- Find stack overflow for data, there is a way to simply import time, then user imports number of races and race meeting --- URL is simple just date and meeting and race numbers.
-Use this to then automatically save all the data and run the analysis, can then just simply display the findings with the GUI?
-
-- Should be creating a JSON of all my doggos???
+- Should be creating a JSON/API of all my doggo race data???
