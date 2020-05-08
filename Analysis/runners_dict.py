@@ -5,7 +5,7 @@
 from greyhound import Greyhound 
 
 # Globals
-runners_list = []  
+runners_list = list() 
 
 # Find the dogs which have been scratched. Only really works if less than two scratchings.
 def find_scratched(runners_list):
@@ -15,6 +15,8 @@ def find_scratched(runners_list):
     spare_list = []
     num_runners = []
     barrier = 1
+
+    # This code will have to be tested with lots of scratching cases.
     for dog in runners_list:
         if int(dog.number) < 9 and dog.scratched == 'true':
             scratched_list.append(dog.barrier) 
@@ -29,24 +31,34 @@ def find_scratched(runners_list):
         barrier += 1
 
     if len(spare_list) == 2:
-        runners_list[-1].barrier = scratched_list[0]
-        runners_list[-2].barrier = scratched_list[1]
+        try:
+            # Try give them the scratched barriers.
+            runners_list[-1].barrier = scratched_list[0]
+            runners_list[-2].barrier = scratched_list[1]
+        except:
+            # If scratched empty then they are removed.
+            if len(runners_list) == 9:
+                runners_list[-1].barrier = 0
+
+            elif len(runners_list) == 10:
+                runners_list[-1].barrier = 0
+                runners_list[-2].barrier = 0
     
     elif len(spare_list) == 1:
         if runners_list[-1].scratched == 'false':
-            runners_list[-1].barrier = scratched_list[0]
+           runners_list[-1].barrier = scratched_list[0]
         elif runners_list[-2].scratched == 'false':
             runners_list[-2].barrier = scratched_list[0]
 
     for runners in runners_list:
-        if runners.scratched == 'false':
+        if runners.barrier != 0:
             num_runners.append(runners.number)
 
     return runners_list, num_runners
 
 
 # Assign the data from the HTML to text and assign it to greyhound variables.
-def assign_data(data_set):
+def assign_data(data_set, speed_map):
     """ Find the specific data and assign to each greyhound variable. """
     global runners_list
 
@@ -195,25 +207,42 @@ def assign_data(data_set):
     runners_list.append(Greyhound(name, age, breeding, grade, comment, fastest, owners, performance, 
     scratched, number, all_stat, track_stat, track_and_distance_stat, sprint_stat, middle_stat, 
     distance_stat, box_1_stat, box_2_stat, box_3_stat, box_4_stat, box_5_stat, box_6_stat, box_7_stat, box_8_stat, 
-    prize, trainer, trainer_district, win_record, barrier))
+    prize, trainer, trainer_district, win_record, barrier, speed_map))
 
 # Create the dogs using the greyhound class for all the dogs with each of their attributes. Will require breaking up a lot of the HTML text which will be very consuming.
 def create_greyhounds_running(race_file):
     """ Build a list of greyhound types that are running in the race. """
     global runners_list
+
+    runners_list = []
+    speed_map_list = []
+
     i = race_file.find('"entries":')
     j = race_file.find('"form_title":')
+
+    k = race_file.find('speedmap":[')
+    x = race_file.find('],"stake":"$1,365","start":{"$DateTime":1588637280000}')
+    speed_map_string = race_file[k + 18:x]
+
+    split_speed_string = speed_map_string.split('}')
+
+    for split_by_box in split_speed_string:
+        speed = split_by_box.split(':')
+        speed_map_list.append(speed[-1])
 
     nominated_string = race_file[i:j]
     nominated_list = nominated_string.split('"jockey":null,"runner":')
     nominated_list = nominated_list[1:]
 
+    z = 0
+
     for nom in nominated_list:
-        assign_data(nom)
+        assign_data(nom, speed_map_list[z])
+        z += 1
 
-    runners_list = find_scratched(runners_list)
+    runners_list, num_runners = find_scratched(runners_list)
 
-    return runners_list
+    return runners_list, num_runners
 
 # ----------------------------------------------------------------------------------------------- #
 # le old version of doing things.

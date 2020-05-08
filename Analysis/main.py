@@ -8,12 +8,12 @@ import config
 import runners_dict
 import print_runners 
 import runner_weighting_dict 
-import grade_weight 
-from overall_weight import overall_stat 
-from box_weight import box_stat 
-from recent_weight import recent_stat 
-from track_weight import track_bias 
-from print_func import print_grades 
+#import grade_weight 
+#from overall_weight import overall_stat 
+#from box_weight import box_stat 
+#from recent_weight import recent_stat 
+#from track_weight import track_bias 
+import print_func
 import fill_txt_data
 
 # GUI Specific Imports. 
@@ -34,8 +34,7 @@ MEETING = 0.1
 TOTAL_RACES = 0.1
 
 # Run the config function init to set up globals.
-
-
+config.init()
 
 # Enter main functions for both GUI and analysis.
 def fill_data(meet, race):
@@ -63,38 +62,26 @@ def fill_data(meet, race):
 # Lots of new code going in.
 def main(race_num):
     """ Main function to poll other functions. """
-    #try:
-    new_race_file = race_file.get_race_file_auto(race_num)
+    global MEETING
+    global TOTAL_RACES
+
+    try:
     
-    # Old line of code.
-    #runner_dict, num_runners = runners_dict.build_runners_dict(new_race_file)
-    
-    runners_list, num_runners = runners_dict.create_greyhounds_running(new_race_file) # Should only need a list returned as we only contain the Greyhound type names.
+        new_race_file = race_file.get_race_file_auto(race_num, MEETING)
+        
+        # Old line of code.
+        #runner_dict, num_runners = runners_dict.build_runners_dict(new_race_file)
+        
+        runners_list, num_runners = runners_dict.create_greyhounds_running(new_race_file) # Should only need a list returned as we only contain the Greyhound type names.
 
-    result_str = print_runners.runners_print_class(runners_list)
+        weighting_dict = runner_weighting_dict.auto(runners_list, num_runners)
 
-    results['text'] = result_str
+        result_str = print_runners.runners_print_class(runners_list, weighting_dict)
 
-    weighting_dict = runner_weighting_dict.auto(runners_list, num_runners)
-    
-    #weighted_dict_1 = runner_weighting_dict.init(runner_dict, num_runners)
+        results['text'] = result_str
 
-    #weighted_dict_2 = grade_weight.grade_bias(new_race_file, weighted_dict_1)
-
-    #weighted_dict_3 = overall_stat(new_race_file, weighted_dict_2)
-
-    #weighted_dict_4 = box_stat(new_race_file, weighted_dict_3, runner_dict)
-
-    #weighted_dict_5 = recent_stat(new_race_file, weighted_dict_4, runner_dict)
-
-    #weighted_dict_6 = track_bias(weighted_dict_5, new_race_file)
-
-    #final_str_res = print_grades(runner_dict, weighted_dict_6) 
-
-    #results['text'] = final_str_res
-
-    #except:
-       # results['text'] = "There has been an error analysing this race."
+    except:
+       results['text'] = "There has been an error analysing this race."
 
 #-------------------------------------------------------------------------------------------------#
 

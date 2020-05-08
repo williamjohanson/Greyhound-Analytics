@@ -1,10 +1,23 @@
 # race_file.py
 # Return an array of lines for the file.
 
+# Imports
+import datetime
+
 # Read all the lines. Use find later to get the info.
-def get_race_file_auto(race_num):
+def get_race_file_auto(race_num, meeting):
     """ Get the data from the html race file and place into greyhound class. """
-    open_race_file = open('Race Data - test/fileb' + race_num, 'r')
+    current = datetime.datetime.today()
+    year = current.year
+    month = current.month
+    if month < 10: 
+        month = '0' + str(month)
+    day = current.day
+    if day < 10: 
+        day = '0' + str(day)
+    date = ("{}-{}-{}".format(year, month, day))
+
+    open_race_file = open('Race Data/M' + str(int(meeting)) + '_' + str(date) + '/Raceb' + race_num, 'r')
     race_file = open_race_file.read()
     
     return race_file

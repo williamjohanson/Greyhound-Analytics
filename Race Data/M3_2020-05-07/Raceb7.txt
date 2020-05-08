@@ -1,0 +1,608 @@
+b'\n\n\n\nbody {margin: 0}\nTAB Extended Form\n\n\nBest Bets - Extended
+FormM3Cambridge DogsThu 7 May
+2020Track:GoodWeather:FineR1R2R3R4R5R6R7R8R9R10R7AFFORDABLE PET ACCESSORIES
+SPRINT 3751.55pmStakes:$2,035Rating:C2/3Speed Maps01Just Nia02Tommy The
+Jett03Party Every Day04Flying Huey05Stay Rich06Noah Who07Busy Flash08Frosty
+BlazeNo.SilkFormNameBest WinExpand allCollapse all0121577Just Nia C2
+nwtd0264447Tommy The Jett C2 nwtd03758X8Party Every Day C3 21.500446774Flying
+Huey C2 21.370515467Stay Rich C3 21.460676845Noah Who C3 21.030773355Busy
+Flash C3 nwtd0812767Frosty Blaze C3 21.310957454Eddie Hemi C2
+nwtdScratched1062657Rod\'s Girl C2 nwtdScratchedBack to top\n\n(function() {\n
+var div = document.body.children[0];\n var state =
+{"races":{"2020-05-07-m3-r7":{"status":"SUCCESS","data":{"channel":"ts2","class":"C2/3","country":"nzl","entries":[{"jockey":null,"runner":{"age":2.5,"barrier":null,"barrier_distance":null,"breeders":null,"breeding":"b
+black Nov 17 Blitzing Mayhem-Big Sam\'s
+Girl","breeding_extra":null,"class":"C2","colour":"black","comment":null,"fastest":"nwtd","form":"21577","jockey":null,"jockey_extra":null,"notes":[],"number":1,"owners":"M
+Black","performance":[{"date":"2020-03-15","filters":["Box
+3"],"record":["AUKG","AK","15 Mar 2020","7 days 7th of 8","C2/3 318m 24.4Kgs
+Box 3","377 $22.00 Time 18.41s Best 18.41s","Mgns 13.1L Iron
+Eyes"]},{"date":"2020-03-08","filters":["Box 6"],"record":["AUKG","AK","08 Mar
+2020","3 days 7th of 8","C2 318m 24.6Kgs Box 6","677 $19.00 Time 18.46s Best
+18.35s","Mgns 10.9L Madam Bucks"]},{"date":"2020-03-05","filters":["Box
+3"],"record":["AUKG","AK","05 Mar 2020","4 days 5th of 8","C1f 318m 24.8Kgs
+Box 3","255 $7.10 Time 18.71s Best 18.27s","Mgns 7.1L Botany
+Rifles"]},{"date":"2020-03-01","filters":["Box 7"],"record":["AUKG","AK","01
+Mar 2020","6 days 1st of 8","C1 318m 24.6Kgs Box 7","211 $14.00 Time 18.91s
+Best 18.37s","Mgns Nk Asserting Power"]},{"date":"2020-02-24","filters":["Box
+2"],"record":["AUKG","AK","24 Feb 2020","8 days 2nd of 8","C1q 318m 24.7Kgs
+Box 2","122 $9.20 Time 18.75s Best 18.59s","Mgns 3.9L Botany
+Rifles"]}],"runner":"Just
+Nia","scratched":false,"sex":"b","silk_text":"1","silk_url":"https://static.tab.co.nz/silks/Grey-37-29-C4CA4238A0B923820DCC509A6F75849B.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"32:5:2:5:0"},{"type":"Track","value":"2:0:1"},{"type":"Track
+&
+Distance","value":"2:0:1"},{"type":"Sprint","value":"32:5:7"},{"type":"Middle","value":"0:0:0"},{"type":"Distance","value":"0:0:0"},{"type":"Box
+1","value":"7:2:2"},{"type":"Box 2","value":"5:0:2"},{"type":"Box
+3","value":"4:0:1"},{"type":"Box 4","value":"5:1:0"},{"type":"Box
+5","value":"1:0:1"},{"type":"Box 6","value":"3:0:0"},{"type":"Box
+7","value":"6:2:1"},{"type":"Box
+8","value":"1:0:0"}],"plc_div":null,"plc_rate":null,"prize":"$5,908","prize2":null,"win_div":null,"win_rate":null},"trainer":"Marsha
+Black","trainer_district":"Te Kauwhata","weight":0,"win_record":["03/20 AUKG G
+C1 $1K 318 24.6 (7)
+18.91"]},"sire":null,"trainer":null},{"jockey":null,"runner":{"age":4.1,"barrier":null,"barrier_distance":null,"breeders":null,"breeding":"d
+black Mar 16 Jagger Swagger-It\'s A
+Jett","breeding_extra":null,"class":"C2","colour":"black","comment":null,"fastest":"nwtd","form":"64447","jockey":null,"jockey_extra":null,"notes":[],"number":2,"owners":"M
+Black","performance":[{"date":"2020-03-19","filters":["Box
+1"],"record":["WAKG","CAM","19 Mar 2020","21 days 7th of 7","C2 375m 31.7Kgs
+Box 1","757 $2.90 Time 21.60s Best 21.00s","Mgns 10.7L Giraffe
+Club"]},{"date":"2020-02-27","filters":["Box 1"],"record":["WAKG","CAM","27
+Feb 2020","59 days 4th of 8","C2 375m 32.1Kgs Box 1","444 $6.90 Time 21.25s
+Best 20.94s","Mgns 4.5L Thrilling
+Hudson"]},{"date":"2019-12-30","filters":["Box 8"],"record":["PLMG","MANA","30
+Dec 2019","7 days 4th of 5","C2/3 457m 32.6Kgs Box 8","444 $7.00 Time 26.04s
+Best 26.04s","Mgns 5.5L Bigtime Lilah"]},{"date":"2019-12-23","filters":["Box
+1"],"record":["PLMG","MANA","23 Dec 2019","7 days 4th of 8","C2/3 457m 32.5Kgs
+Box 1","124 $3.80 Time 26.31s Best 26.06s","Mgns 2.7L
+Rivalries"]},{"date":"2019-12-16","filters":["Box
+7"],"record":["PLMG","MANA","16 Dec 2019","7 days 6th of 8","C2/3 457m 32.4Kgs
+Box 7","346 $9.90 Time 26.01s Best 25.64s","Mgns 9.5L Thrilling
+Winter"]}],"runner":"Tommy The
+Jett","scratched":false,"sex":"d","silk_text":"2","silk_url":"https://static.tab.co.nz/silks/Grey-37-29-C81E728D9D4C2F636F067F89CC14862C.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"84:12:8:22:0"},{"type":"Track","value":"7:0:3"},{"type":"Track
+&
+Distance","value":"2:0:0"},{"type":"Sprint","value":"16:4:5"},{"type":"Middle","value":"68:8:25"},{"type":"Distance","value":"0:0:0"},{"type":"Box
+1","value":"12:2:2"},{"type":"Box 2","value":"11:1:4"},{"type":"Box
+3","value":"9:1:5"},{"type":"Box 4","value":"5:0:2"},{"type":"Box
+5","value":"9:2:2"},{"type":"Box 6","value":"7:1:2"},{"type":"Box
+7","value":"19:3:10"},{"type":"Box
+8","value":"12:2:3"}],"plc_div":null,"plc_rate":null,"prize":"$36,611","prize2":null,"win_div":null,"win_rate":null},"trainer":"Marsha
+Black","trainer_district":"Te
+Kauwhata","weight":0,"win_record":null},"sire":null,"trainer":null},{"jockey":null,"runner":{"age":4.7,"barrier":null,"barrier_distance":null,"breeders":null,"breeding":"d
+black Aug 15 Jagger Swagger-Midnight
+Tammy","breeding_extra":null,"class":"C3","colour":"black","comment":null,"fastest":"21.50","form":"758X8","jockey":null,"jockey_extra":null,"notes":[],"number":3,"owners":"R
+& L Udy","performance":[{"date":"2020-02-13","filters":["Box
+5"],"record":["WAKG","CAM","13 Feb 2020","130 days 8th of 8","C2/3 375m
+33.9Kgs Box 5","268 $34.00 Time 21.32s Best 20.99s","Mgns 12.8L
+Prerogative"]},{"date":"2019-10-06","filters":["Box
+3"],"record":["AUKG","AK","06 Oct 2019","42 days 8th of 8","C2/3 318m 33.5Kgs
+Box 3","888 $16.00 Time 18.79s Best 18.59s","Mgns 13.7L
+Manicorn"]},{"date":"2019-08-25","filters":["Box 2"],"record":["AUKG","AK","25
+Aug 2019","3 days 5th of 7","C3/4 527m 34.2Kgs Box 2","33665 $11.00 Time
+30.66s Best 30.66s","Mgns 21.1L Opawa
+Magic"]},{"date":"2019-08-22","filters":["Box 4"],"record":["WAKG","CAM","22
+Aug 2019","4 days 7th of 8","C4 375m 34.3Kgs Box 4","887 $17.00 Time 21.31s
+Best 21.20s","Mgns 7.6L Classy Impact"]},{"date":"2019-08-18","filters":["Box
+7"],"record":["AUKG","AK","18 Aug 2019","14 days 8th of 8","C4/5 527m 34.5Kgs
+Box 7","43468 $12.00 Time 30.69s Best 30.69s","Mgns 18.7L Cameo
+Syd"]}],"runner":"Party Every
+Day","scratched":false,"sex":"d","silk_text":"3","silk_url":"https://static.tab.co.nz/silks/Grey-37-29-ECCBC87E4B5CE2FE28308FD9F2A7BAF3.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"71:13:9:5:0"},{"type":"Track","value":"8:1:1"},{"type":"Track
+&
+Distance","value":"7:1:1"},{"type":"Sprint","value":"18:3:4"},{"type":"Middle","value":"52:10:10"},{"type":"Distance","value":"1:0:0"},{"type":"Box
+1","value":"7:1:2"},{"type":"Box 2","value":"12:4:1"},{"type":"Box
+3","value":"8:0:1"},{"type":"Box 4","value":"9:1:2"},{"type":"Box
+5","value":"9:1:2"},{"type":"Box 6","value":"5:1:1"},{"type":"Box
+7","value":"12:3:1"},{"type":"Box
+8","value":"9:2:4"}],"plc_div":null,"plc_rate":null,"prize":"$34,138.5","prize2":null,"win_div":null,"win_rate":null},"trainer":"R
+& L Udy","trainer_district":"Te
+Kauwhata","weight":0,"win_record":null},"sire":null,"trainer":null},{"jockey":null,"runner":{"age":3.5,"barrier":null,"barrier_distance":null,"breeders":null,"breeding":"d
+black Oct 16 Barcia Bale-Flying
+Twist","breeding_extra":null,"class":"C2","colour":"black","comment":null,"fastest":"21.37","form":"46774","jockey":null,"jockey_extra":null,"notes":[],"number":4,"owners":"Marsha-
+Lee Black","performance":[{"date":"2020-03-19","filters":["Box
+5"],"record":["WAKG","CAM","19 Mar 2020","7 days 4th of 7","C2 375m 30.8Kgs
+Box 5","644 $10.00 Time 21.60s Best 21.00s","Mgns 4.9L Giraffe
+Club"]},{"date":"2020-03-12","filters":["Box 8"],"record":["WAKG","CAM","12
+Mar 2020","7 days 7th of 8","C2 375m 32.1Kgs Box 8","667 $3.90 Time 21.58s
+Best 21.12s","Mgns 8.8L Talkabout Izzy"]},{"date":"2020-03-05","filters":["Box
+6"],"record":["AUKG","AK","05 Mar 2020","4 days 7th of 8","C2/3 527m 31.7Kgs
+Box 6","46767 $18.00 Time 30.97s Best 30.97s","Mgns 10.5L Frosty
+Blaze"]},{"date":"2020-03-01","filters":["Box 5"],"record":["AUKG","AK","01
+Mar 2020","3 days 6th of 8","C2/3 318m 31.3Kgs Box 5","566 $19.00 Time 18.49s
+Best 18.37s","Mgns 9.9L Kuridrani"]},{"date":"2020-02-27","filters":["Box
+1"],"record":["WAKG","CAM","27 Feb 2020","7 days 4th of 8","C3 375m 31.1Kgs
+Box 1","544 $8.20 Time 21.28s Best 20.94s","Mgns 9.5L Tres
+Vite"]}],"runner":"Flying
+Huey","scratched":false,"sex":"d","silk_text":"4","silk_url":"https://static.tab.co.nz/silks/Grey-37-29-A87FF679A2F3E71D9181A67B7542122C.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"96:11:14:13:0"},{"type":"Track","value":"9:2:0"},{"type":"Track
+&
+Distance","value":"9:2:0"},{"type":"Sprint","value":"62:7:18"},{"type":"Middle","value":"34:4:9"},{"type":"Distance","value":"0:0:0"},{"type":"Box
+1","value":"10:1:4"},{"type":"Box 2","value":"13:1:4"},{"type":"Box
+3","value":"17:3:7"},{"type":"Box 4","value":"4:0:1"},{"type":"Box
+5","value":"19:0:4"},{"type":"Box 6","value":"11:0:2"},{"type":"Box
+7","value":"12:2:2"},{"type":"Box
+8","value":"10:4:3"}],"plc_div":null,"plc_rate":null,"prize":"$23,217","prize2":null,"win_div":null,"win_rate":null},"trainer":"Marsha
+Black","trainer_district":"Te
+Kauwhata","weight":0,"win_record":null},"sire":null,"trainer":null},{"jockey":null,"runner":{"age":4.2,"barrier":null,"barrier_distance":null,"breeders":null,"breeding":"b
+black Feb 16 Oaks Road-Sad
+Movies","breeding_extra":null,"class":"C3","colour":"black","comment":null,"fastest":"21.46","form":"15467","jockey":null,"jockey_extra":null,"notes":[],"number":5,"owners":"Green
+& Smiths Syndicate","performance":[{"date":"2020-03-22","filters":["Box
+2"],"record":["TOKG","CAM","22 Mar 2020","3 days 7th of 7","C4 375m 25Kgs Box
+2","117 $18.00 Time 21.52s Best 21.04s","Mgns 11.2L Monsoon
+Malabar"]},{"date":"2020-03-19","filters":["Box 7"],"record":["WAKG","CAM","19
+Mar 2020","4 days 6th of 8","C4 375m 25.1Kgs Box 7","876 $17.00 Time 21.25s
+Best 21.00s","Mgns 9.8L Our Hemi"]},{"date":"2020-03-15","filters":["Box
+3"],"record":["AUKG","AK","15 Mar 2020","3 days 4th of 8","C4 318m 24.9Kgs Box
+3","744 $27.00 Time 18.53s Best 18.41s","Mgns 3.3L Morton
+Keeping"]},{"date":"2020-03-12","filters":["Box 5"],"record":["WAKG","CAM","12
+Mar 2020","4 days 5th of 8","C4 375m 25Kgs Box 5","645 $18.00 Time 21.31s Best
+21.12s","Mgns 6.4L Typical"]},{"date":"2020-03-08","filters":["Box
+4"],"record":["AUKG","AK","08 Mar 2020","3 days 1st of 7","C3/4 318m 24.8Kgs
+Box 4","231 $15.00 Time 18.72s Best 18.35s","Mgns Ns Morton
+Keeping"]}],"runner":"Stay
+Rich","scratched":false,"sex":"b","silk_text":"5","silk_url":"https://static.tab.co.nz/silks/Grey-37-29-E4DA3B7FBBCE2345D7772B0674A318D5.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"142:17:17:27:0"},{"type":"Track","value":"58:6:16"},{"type":"Track
+&
+Distance","value":"56:6:15"},{"type":"Sprint","value":"139:17:43"},{"type":"Middle","value":"3:0:1"},{"type":"Distance","value":"0:0:0"},{"type":"Box
+1","value":"14:0:4"},{"type":"Box 2","value":"23:3:9"},{"type":"Box
+3","value":"22:7:4"},{"type":"Box 4","value":"17:3:5"},{"type":"Box
+5","value":"17:2:4"},{"type":"Box 6","value":"18:0:7"},{"type":"Box
+7","value":"14:0:4"},{"type":"Box
+8","value":"17:2:7"}],"plc_div":null,"plc_rate":null,"prize":"$29,559","prize2":null,"win_div":null,"win_rate":null},"trainer":"M
+& J Smith","trainer_district":"Takanini","weight":0,"win_record":["03/20 AUKG
+G C3/4 $2K 318 24.8 (4)
+18.72"]},"sire":null,"trainer":null},{"jockey":null,"runner":{"age":4.6,"barrier":null,"barrier_distance":null,"breeders":null,"breeding":"d
+black Sep 15 Piggy Back-Who
+Bobby","breeding_extra":null,"class":"C3","colour":"black","comment":null,"fastest":"21.03","form":"76845","jockey":null,"jockey_extra":null,"notes":[],"number":6,"owners":"Three
+Sisters Syndicate","performance":[{"date":"2020-03-22","filters":["Box
+5"],"record":["TOKG","CAM","22 Mar 2020","3 days 5th of 6","C3 375m 36Kgs Box
+5","455 $12.00 Time 21.32s Best 21.04s","Mgns 8.2L Madam
+Bucks"]},{"date":"2020-03-19","filters":["Box 7"],"record":["WAKG","CAM","19
+Mar 2020","21 days 4th of 6","C3 375m 35.8Kgs Box 7","544 $8.80 Time 21.54s
+Best 21.00s","Mgns 3.3L Thrilling
+Hudson"]},{"date":"2020-02-27","filters":["Box 1"],"record":["WAKG","CAM","27
+Feb 2020","3 days 8th of 8","C4/5 375m 36.3Kgs Box 1","888 $25.00 Time 21.02s
+Best 20.94s","Mgns 15.6L Too The Nail"]},{"date":"2020-02-24","filters":["Box
+4"],"record":["AUKG","AK","24 Feb 2020","4 days 6th of 8","C4 318m 36.7Kgs Box
+4","676 $22.00 Time 18.67s Best 18.59s","Mgns 7.1L Jinja
+Mongo"]},{"date":"2020-02-20","filters":["Box 6"],"record":["WAKG","CAM","20
+Feb 2020","4 days 7th of 7","C4 375m 36.7Kgs Box 6","777 $22.00 Time 21.35s
+Best 21.17s","Mgns 9.7L Raging Demon"]}],"runner":"Noah
+Who","scratched":false,"sex":"d","silk_text":"6","silk_url":"https://static.tab.co.nz/silks/Grey-37-29-1679091C5A880FAF6FB5E6087EB1B2DC.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"74:12:9:11:0"},{"type":"Track","value":"44:6:13"},{"type":"Track
+&
+Distance","value":"27:5:6"},{"type":"Sprint","value":"45:10:9"},{"type":"Middle","value":"29:2:11"},{"type":"Distance","value":"0:0:0"},{"type":"Box
+1","value":"10:3:4"},{"type":"Box 2","value":"8:2:3"},{"type":"Box
+3","value":"6:1:0"},{"type":"Box 4","value":"12:0:4"},{"type":"Box
+5","value":"7:0:0"},{"type":"Box 6","value":"8:1:2"},{"type":"Box
+7","value":"14:3:5"},{"type":"Box
+8","value":"9:2:2"}],"plc_div":null,"plc_rate":null,"prize":"$29,439","prize2":null,"win_div":null,"win_rate":null},"trainer":"M
+Prangley","trainer_district":"Clevedon","weight":0,"win_record":null},"sire":null,"trainer":null},{"jockey":null,"runner":{"age":3.3,"barrier":null,"barrier_distance":null,"breeders":null,"breeding":"b
+black Jan 17 My Bro Fabio-Cawbourne
+Cobra","breeding_extra":null,"class":"C3","colour":"black","comment":null,"fastest":"nwtd","form":"73355","jockey":null,"jockey_extra":null,"notes":[],"number":7,"owners":"I
+Pave Shirley Boys
+Syndicate","performance":[{"date":"2020-03-12","filters":["Box
+2"],"record":["WAKG","CAM","12 Mar 2020","7 days 5th of 8","C3/4 375m 30.2Kgs
+Box 2","555 $11.00 Time 21.12s Best 21.12s","Mgns 8.1L
+Charlow"]},{"date":"2020-03-05","filters":["Box 8"],"record":["AUKG","AK","05
+Mar 2020","7 days 5th of 8","C2/3 527m 29.6Kgs Box 8","65555 $7.90 Time 30.97s
+Best 30.97s","Mgns 6.8L Frosty Blaze"]},{"date":"2020-02-27","filters":["Box
+8"],"record":["WAKG","CAM","27 Feb 2020","7 days 3rd of 8","C3 375m 30.4Kgs
+Box 8","433 $7.10 Time 21.28s Best 20.94s","Mgns 4.1L Tres
+Vite"]},{"date":"2020-02-20","filters":["Box 8"],"record":["WAKG","CAM","20
+Feb 2020","4 days 3rd of 8","C3 375m 30Kgs Box 8","223 $3.60 Time 21.40s Best
+21.17s","Mgns 4.5L See Eye Be"]},{"date":"2020-02-16","filters":["Box
+2"],"record":["AUKG","AK","16 Feb 2020","7 days 7th of 8","C5 527m 29.8Kgs Box
+2","23357 $25.00 Time 30.82s Best 30.82s","Mgns 11.5L Grunt"]}],"runner":"Busy
+Flash","scratched":false,"sex":"b","silk_text":"7","silk_url":"https://static.tab.co.nz/silks/Grey-37-29-8F14E45FCEEA167A5A36DEDD4BEA2543.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"43:7:5:8:0"},{"type":"Track","value":"10:0:4"},{"type":"Track
+&
+Distance","value":"10:0:4"},{"type":"Sprint","value":"10:0:4"},{"type":"Middle","value":"33:7:9"},{"type":"Distance","value":"0:0:0"},{"type":"Box
+1","value":"8:4:4"},{"type":"Box 2","value":"6:1:1"},{"type":"Box
+3","value":"2:0:1"},{"type":"Box 4","value":"5:1:1"},{"type":"Box
+5","value":"2:0:0"},{"type":"Box 6","value":"7:0:1"},{"type":"Box
+7","value":"6:1:2"},{"type":"Box
+8","value":"7:0:3"}],"plc_div":null,"plc_rate":null,"prize":"$21,192","prize2":null,"win_div":null,"win_rate":null},"trainer":"W
+& T Steele","trainer_district":"Te
+Awamutu","weight":0,"win_record":null},"sire":null,"trainer":null},{"jockey":null,"runner":{"age":3.4,"barrier":null,"barrier_distance":null,"breeders":null,"breeding":"d
+black Dec 16 Kinloch Brae-Absolute
+Stunna","breeding_extra":null,"class":"C3","colour":"black","comment":null,"fastest":"21.31","form":"12767","jockey":null,"jockey_extra":null,"notes":[],"number":8,"owners":"Four
+Frothys Syndicate","performance":[{"date":"2020-03-22","filters":["Box
+5"],"record":["TOKG","CAM","22 Mar 2020","7 days 7th of 8","C3/4 457m 32.8Kgs
+Box 5","777 $41.00 Time 25.79s Best 25.28s","Mgns 6.8L Big Time
+Anton"]},{"date":"2020-03-15","filters":["Box 6"],"record":["AUKG","AK","15
+Mar 2020","3 days 6th of 6","C4/5 527m 30.2Kgs Box 6","15666 $12.00 Time
+30.70s Best 30.33s","Mgns 7.2L Spring
+Mechanic"]},{"date":"2020-03-12","filters":["Box
+7"],"record":["WAKG","CAM","12 Mar 2020","4 days 7th of 8","C4 375m 30.3Kgs
+Box 7","777 $18.00 Time 21.31s Best 21.12s","Mgns 9.5L
+Typical"]},{"date":"2020-03-08","filters":["Box 5"],"record":["AUKG","AK","08
+Mar 2020","3 days 2nd of 8","C3 527m 30.3Kgs Box 5","21112 $9.40 Time 30.72s
+Best 30.72s","Mgns 0.4L Kiwi Gal"]},{"date":"2020-03-05","filters":["Box
+4"],"record":["AUKG","AK","05 Mar 2020","7 days 1st of 8","C2/3 527m 30.3Kgs
+Box 4","21111 $5.10 Time 30.97s Best 30.97s","Mgns 0.4L Jinja
+Jay"]}],"runner":"Frosty
+Blaze","scratched":false,"sex":"d","silk_text":"8","silk_url":"https://static.tab.co.nz/silks/Grey-37-29-C9F0F895FB98AB9159F51FD0297E236D.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"78:11:9:10:0"},{"type":"Track","value":"25:3:6"},{"type":"Track
+&
+Distance","value":"10:2:2"},{"type":"Sprint","value":"11:2:2"},{"type":"Middle","value":"57:9:14"},{"type":"Distance","value":"10:0:3"},{"type":"Box
+1","value":"9:0:1"},{"type":"Box 2","value":"10:2:2"},{"type":"Box
+3","value":"11:0:3"},{"type":"Box 4","value":"8:2:2"},{"type":"Box
+5","value":"10:2:3"},{"type":"Box 6","value":"12:2:1"},{"type":"Box
+7","value":"10:1:5"},{"type":"Box
+8","value":"8:2:2"}],"plc_div":null,"plc_rate":null,"prize":"$29,208","prize2":null,"win_div":null,"win_rate":null},"trainer":"Thayne
+Green","trainer_district":"Papakura","weight":0,"win_record":["03/20 AUKG G
+C2/3 $3K 527 30.3 (4)
+30.97"]},"sire":null,"trainer":null},{"jockey":null,"runner":{"age":3.1,"barrier":null,"barrier_distance":null,"breeders":null,"breeding":"d
+black Mar 17 Fabregas-Opawa
+Stella","breeding_extra":null,"class":"C2","colour":"black","comment":null,"fastest":"nwtd","form":"57454","jockey":null,"jockey_extra":null,"notes":[],"number":9,"owners":"Opawa
+Racing Limited","performance":[{"date":"2020-03-22","filters":["Box
+2"],"record":["TOKG","CAM","22 Mar 2020","3 days 4th of 7","C1/2 457m 32.1Kgs
+Box 2","254 $10.00 Time 25.89s Best 25.28s","Mgns 6.3L Big Time
+Chad"]},{"date":"2020-03-19","filters":["Box 6"],"record":["WAKG","CAM","19
+Mar 2020","4 days 5th of 7","C2 375m 32.4Kgs Box 6","565 $12.00 Time 21.60s
+Best 21.00s","Mgns 5.6L Giraffe Club"]},{"date":"2020-03-15","filters":["Box
+2"],"record":["AUKG","AK","15 Mar 2020","7 days 4th of 8","C2/3 527m 32.1Kgs
+Box 2","35444 $19.00 Time 30.48s Best 30.33s","Mgns 6.1L Jinja
+Jay"]},{"date":"2020-03-08","filters":["Box 3"],"record":["AUKG","AK","08 Mar
+2020","26 days 7th of 8","C3 527m 31.8Kgs Box 3","78777 $17.00 Time 30.72s
+Best 30.72s","Mgns 9.2L Kiwi Gal"]},{"date":"2020-02-11","filters":["Box
+8"],"record":["OTGG","DUN","11 Feb 2020","7 days 5th of 8","NZRSq 545m 32.4Kgs
+Box 8","45565 $15.00 Time 32.70s Best 32.53s","Mgns 4.6L Mr
+Blackjack"]}],"runner":"Eddie
+Hemi","scratched":true,"sex":"d","silk_text":"9","silk_url":"https://static.tab.co.nz/silks/Grey-37-29-45C48CCE2E2D7FBDEA1AFC51C7C6AD26.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"44:6:6:8:0"},{"type":"Track","value":"2:0:0"},{"type":"Track
+&
+Distance","value":"1:0:0"},{"type":"Sprint","value":"1:0:0"},{"type":"Middle","value":"43:6:14"},{"type":"Distance","value":"0:0:0"},{"type":"Box
+1","value":"9:3:2"},{"type":"Box 2","value":"7:1:2"},{"type":"Box
+3","value":"5:0:2"},{"type":"Box 4","value":"4:0:1"},{"type":"Box
+5","value":"4:0:3"},{"type":"Box 6","value":"5:0:0"},{"type":"Box
+7","value":"3:1:1"},{"type":"Box
+8","value":"7:1:3"}],"plc_div":null,"plc_rate":null,"prize":"$16,444","prize2":null,"win_div":null,"win_rate":null},"trainer":"W
+& T Steele","trainer_district":"Te
+Awamutu","weight":0,"win_record":null},"sire":null,"trainer":null},{"jockey":null,"runner":{"age":2.4,"barrier":null,"barrier_distance":null,"breeders":null,"breeding":"b
+blue Dec 17 My Bro Fabio-Who
+Bobby","breeding_extra":null,"class":"C2","colour":"blue","comment":null,"fastest":"nwtd","form":"62657","jockey":null,"jockey_extra":null,"notes":[],"number":10,"owners":"A
+J Christiansen","performance":[{"date":"2020-03-02","filters":["Box
+1"],"record":["PLMG","MANA","02 Mar 2020","4 days 7th of 7","C3/4 457m 26Kgs
+Box 1","577 $12.00 Time 26.22s Best 25.87s","Mgns 11.4L Silent
+Dismissal"]},{"date":"2020-02-27","filters":["Box
+6"],"record":["WAKG","CAM","27 Feb 2020","3 days 5th of 8","C3 375m 26.9Kgs
+Box 6","655 $4.70 Time 21.28s Best 20.94s","Mgns 11.5L Tres
+Vite"]},{"date":"2020-02-24","filters":["Box 2"],"record":["AUKG","AK","24 Feb
+2020","8 days 6th of 7","C3 527m 27.3Kgs Box 2","56676 $3.70 Time 30.78s Best
+30.78s","Mgns 15.6L Jinja Nice"]},{"date":"2020-02-16","filters":["Box
+3"],"record":["AUKG","AK","16 Feb 2020","6 days 2nd of 8","C3 527m 27.3Kgs Box
+3","42222 $5.70 Time 31.16s Best 30.82s","Mgns 1.1L Frosty
+Blaze"]},{"date":"2020-02-10","filters":["Box 8"],"record":["PLMG","MANA","10
+Feb 2020","8 days 6th of 8","C2/3 457m 27.5Kgs Box 8","756 $9.50 Time 25.93s
+Best 25.81s","Mgns 10.8L Emgrand Rose"]}],"runner":"Rod\'s
+Girl","scratched":true,"sex":"b","silk_text":"10","silk_url":"https://static.tab.co.nz/silks/Grey-37-29-D3D9446802A44259755D38E6D163E820.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"13:4:2:1:0"},{"type":"Track","value":"3:0:1"},{"type":"Track
+&
+Distance","value":"3:0:1"},{"type":"Sprint","value":"6:1:2"},{"type":"Middle","value":"7:3:1"},{"type":"Distance","value":"0:0:0"},{"type":"Box
+1","value":"1:0:0"},{"type":"Box 2","value":"2:0:1"},{"type":"Box
+3","value":"1:0:1"},{"type":"Box 4","value":"1:0:0"},{"type":"Box
+5","value":"2:1:1"},{"type":"Box 6","value":"2:1:0"},{"type":"Box
+7","value":"3:2:0"},{"type":"Box
+8","value":"1:0:0"}],"plc_div":null,"plc_rate":null,"prize":"$6,798","prize2":null,"win_div":null,"win_rate":null},"trainer":"Udy/Cottam","trainer_district":"Te
+Kauwhata","weight":0,"win_record":null},"sire":null,"trainer":null}],"form_title":"Last
+5 Starts, X = Spell (90 days or
+more)","gear_changes":null,"id":"2020-05-07-m3-r7","length":375,"m_date":"2020-05-07","m_name":"Cambridge
+Dogs","m_number":3,"r_name":"AFFORDABLE PET ACCESSORIES
+SPRINT","r_number":7,"rail_position":null,"runner_perf_headers":[{"desc":"Track","header":"Venue"},{"desc":null,"header":null},{"desc":"Date
+of previous race","header":"Date"},{"desc":"Days since last start / Finishing
+position","header":"Finishing position"},{"desc":"Race class / Race distance /
+Racing weight / Box","header":"Class, Distance, Weight,
+Box"},{"desc":"Position at certain sections during the running / Favouritism /
+Winners time / Best time of day","header":"Race position, Favouritism,
+Times"},{"desc":"Margins / First or second placed
+greyhound","header":"Margins, 1st/2nd placed
+Greyhound"}],"runner_stat_descriptions":[{"desc":"Record from Box 8. Starts :
+Wins : Placings","type":"Box 8"},{"desc":"Record at this track and distance.
+Starts : Wins : Placings","type":"Track & Distance"},{"desc":"Record over
+middle distances (400 metres - 599 metres). Starts : Wins :
+Placings","type":"Middle"},{"desc":"Record over Staying distances (600 metres
+or over). Starts : Wins : Placings","type":"Distance"},{"desc":"Record from
+Box 5. Starts : Wins : Placings","type":"Box 5"},{"desc":"Record from Box 1.
+Starts : Wins : Placings","type":"Box 1"},{"desc":"Record on this track.
+Starts : Wins : Placings","type":"Track"},{"desc":"Career starts. Starts :
+Wins : 2nd placings : 3rd placings : 4th
+placings","type":"All"},{"desc":"Record from Box 7. Starts : Wins :
+Placings","type":"Box 7"},{"desc":"Record from Box 4. Starts : Wins :
+Placings","type":"Box 4"},{"desc":"Record from Box 2. Starts : Wins :
+Placings","type":"Box 2"},{"desc":"Record from Box 3. Starts : Wins :
+Placings","type":"Box 3"},{"desc":"Record from Box 6. Starts : Wins :
+Placings","type":"Box 6"},{"desc":"Record over sprint distances (399 metres or
+fewer). Starts : Wins :
+Placings","type":"Sprint"}],"speedmap":[{"box":1,"e_number":1,"speed":7.8},{"box":2,"e_number":2,"speed":7.9},{"box":3,"e_number":3,"speed":6.9},{"box":4,"e_number":4,"speed":4.6},{"box":5,"e_number":5,"speed":5.8},{"box":6,"e_number":6,"speed":3.4},{"box":7,"e_number":7,"speed":5.9},{"box":8,"e_number":8,"speed":6.1},{"box":9,"e_number":9,"speed":6.6},{"box":10,"e_number":10,"speed":5}],"stake":"$2,035","start":{"$DateTime":1588816500000},"status":"OK","track":"Good","type":"GR","venue":"Cambridge","weather":"Fine"}}},"meetings":{"2020-05-07-m3":{"status":"SUCCESS","data":{"channel":"ts2","class":"C2/3","country":"nzl","entries":[{"jockey":null,"runner":{"age":2.5,"barrier":null,"barrier_distance":null,"breeders":null,"breeding":"b
+black Nov 17 Blitzing Mayhem-Big Sam\'s
+Girl","breeding_extra":null,"class":"C2","colour":"black","comment":null,"fastest":"nwtd","form":"21577","jockey":null,"jockey_extra":null,"notes":[],"number":1,"owners":"M
+Black","performance":[{"date":"2020-03-15","filters":["Box
+3"],"record":["AUKG","AK","15 Mar 2020","7 days 7th of 8","C2/3 318m 24.4Kgs
+Box 3","377 $22.00 Time 18.41s Best 18.41s","Mgns 13.1L Iron
+Eyes"]},{"date":"2020-03-08","filters":["Box 6"],"record":["AUKG","AK","08 Mar
+2020","3 days 7th of 8","C2 318m 24.6Kgs Box 6","677 $19.00 Time 18.46s Best
+18.35s","Mgns 10.9L Madam Bucks"]},{"date":"2020-03-05","filters":["Box
+3"],"record":["AUKG","AK","05 Mar 2020","4 days 5th of 8","C1f 318m 24.8Kgs
+Box 3","255 $7.10 Time 18.71s Best 18.27s","Mgns 7.1L Botany
+Rifles"]},{"date":"2020-03-01","filters":["Box 7"],"record":["AUKG","AK","01
+Mar 2020","6 days 1st of 8","C1 318m 24.6Kgs Box 7","211 $14.00 Time 18.91s
+Best 18.37s","Mgns Nk Asserting Power"]},{"date":"2020-02-24","filters":["Box
+2"],"record":["AUKG","AK","24 Feb 2020","8 days 2nd of 8","C1q 318m 24.7Kgs
+Box 2","122 $9.20 Time 18.75s Best 18.59s","Mgns 3.9L Botany
+Rifles"]}],"runner":"Just
+Nia","scratched":false,"sex":"b","silk_text":"1","silk_url":"https://static.tab.co.nz/silks/Grey-37-29-C4CA4238A0B923820DCC509A6F75849B.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"32:5:2:5:0"},{"type":"Track","value":"2:0:1"},{"type":"Track
+&
+Distance","value":"2:0:1"},{"type":"Sprint","value":"32:5:7"},{"type":"Middle","value":"0:0:0"},{"type":"Distance","value":"0:0:0"},{"type":"Box
+1","value":"7:2:2"},{"type":"Box 2","value":"5:0:2"},{"type":"Box
+3","value":"4:0:1"},{"type":"Box 4","value":"5:1:0"},{"type":"Box
+5","value":"1:0:1"},{"type":"Box 6","value":"3:0:0"},{"type":"Box
+7","value":"6:2:1"},{"type":"Box
+8","value":"1:0:0"}],"plc_div":null,"plc_rate":null,"prize":"$5,908","prize2":null,"win_div":null,"win_rate":null},"trainer":"Marsha
+Black","trainer_district":"Te Kauwhata","weight":0,"win_record":["03/20 AUKG G
+C1 $1K 318 24.6 (7)
+18.91"]},"sire":null,"trainer":null},{"jockey":null,"runner":{"age":4.1,"barrier":null,"barrier_distance":null,"breeders":null,"breeding":"d
+black Mar 16 Jagger Swagger-It\'s A
+Jett","breeding_extra":null,"class":"C2","colour":"black","comment":null,"fastest":"nwtd","form":"64447","jockey":null,"jockey_extra":null,"notes":[],"number":2,"owners":"M
+Black","performance":[{"date":"2020-03-19","filters":["Box
+1"],"record":["WAKG","CAM","19 Mar 2020","21 days 7th of 7","C2 375m 31.7Kgs
+Box 1","757 $2.90 Time 21.60s Best 21.00s","Mgns 10.7L Giraffe
+Club"]},{"date":"2020-02-27","filters":["Box 1"],"record":["WAKG","CAM","27
+Feb 2020","59 days 4th of 8","C2 375m 32.1Kgs Box 1","444 $6.90 Time 21.25s
+Best 20.94s","Mgns 4.5L Thrilling
+Hudson"]},{"date":"2019-12-30","filters":["Box 8"],"record":["PLMG","MANA","30
+Dec 2019","7 days 4th of 5","C2/3 457m 32.6Kgs Box 8","444 $7.00 Time 26.04s
+Best 26.04s","Mgns 5.5L Bigtime Lilah"]},{"date":"2019-12-23","filters":["Box
+1"],"record":["PLMG","MANA","23 Dec 2019","7 days 4th of 8","C2/3 457m 32.5Kgs
+Box 1","124 $3.80 Time 26.31s Best 26.06s","Mgns 2.7L
+Rivalries"]},{"date":"2019-12-16","filters":["Box
+7"],"record":["PLMG","MANA","16 Dec 2019","7 days 6th of 8","C2/3 457m 32.4Kgs
+Box 7","346 $9.90 Time 26.01s Best 25.64s","Mgns 9.5L Thrilling
+Winter"]}],"runner":"Tommy The
+Jett","scratched":false,"sex":"d","silk_text":"2","silk_url":"https://static.tab.co.nz/silks/Grey-37-29-C81E728D9D4C2F636F067F89CC14862C.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"84:12:8:22:0"},{"type":"Track","value":"7:0:3"},{"type":"Track
+&
+Distance","value":"2:0:0"},{"type":"Sprint","value":"16:4:5"},{"type":"Middle","value":"68:8:25"},{"type":"Distance","value":"0:0:0"},{"type":"Box
+1","value":"12:2:2"},{"type":"Box 2","value":"11:1:4"},{"type":"Box
+3","value":"9:1:5"},{"type":"Box 4","value":"5:0:2"},{"type":"Box
+5","value":"9:2:2"},{"type":"Box 6","value":"7:1:2"},{"type":"Box
+7","value":"19:3:10"},{"type":"Box
+8","value":"12:2:3"}],"plc_div":null,"plc_rate":null,"prize":"$36,611","prize2":null,"win_div":null,"win_rate":null},"trainer":"Marsha
+Black","trainer_district":"Te
+Kauwhata","weight":0,"win_record":null},"sire":null,"trainer":null},{"jockey":null,"runner":{"age":4.7,"barrier":null,"barrier_distance":null,"breeders":null,"breeding":"d
+black Aug 15 Jagger Swagger-Midnight
+Tammy","breeding_extra":null,"class":"C3","colour":"black","comment":null,"fastest":"21.50","form":"758X8","jockey":null,"jockey_extra":null,"notes":[],"number":3,"owners":"R
+& L Udy","performance":[{"date":"2020-02-13","filters":["Box
+5"],"record":["WAKG","CAM","13 Feb 2020","130 days 8th of 8","C2/3 375m
+33.9Kgs Box 5","268 $34.00 Time 21.32s Best 20.99s","Mgns 12.8L
+Prerogative"]},{"date":"2019-10-06","filters":["Box
+3"],"record":["AUKG","AK","06 Oct 2019","42 days 8th of 8","C2/3 318m 33.5Kgs
+Box 3","888 $16.00 Time 18.79s Best 18.59s","Mgns 13.7L
+Manicorn"]},{"date":"2019-08-25","filters":["Box 2"],"record":["AUKG","AK","25
+Aug 2019","3 days 5th of 7","C3/4 527m 34.2Kgs Box 2","33665 $11.00 Time
+30.66s Best 30.66s","Mgns 21.1L Opawa
+Magic"]},{"date":"2019-08-22","filters":["Box 4"],"record":["WAKG","CAM","22
+Aug 2019","4 days 7th of 8","C4 375m 34.3Kgs Box 4","887 $17.00 Time 21.31s
+Best 21.20s","Mgns 7.6L Classy Impact"]},{"date":"2019-08-18","filters":["Box
+7"],"record":["AUKG","AK","18 Aug 2019","14 days 8th of 8","C4/5 527m 34.5Kgs
+Box 7","43468 $12.00 Time 30.69s Best 30.69s","Mgns 18.7L Cameo
+Syd"]}],"runner":"Party Every
+Day","scratched":false,"sex":"d","silk_text":"3","silk_url":"https://static.tab.co.nz/silks/Grey-37-29-ECCBC87E4B5CE2FE28308FD9F2A7BAF3.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"71:13:9:5:0"},{"type":"Track","value":"8:1:1"},{"type":"Track
+&
+Distance","value":"7:1:1"},{"type":"Sprint","value":"18:3:4"},{"type":"Middle","value":"52:10:10"},{"type":"Distance","value":"1:0:0"},{"type":"Box
+1","value":"7:1:2"},{"type":"Box 2","value":"12:4:1"},{"type":"Box
+3","value":"8:0:1"},{"type":"Box 4","value":"9:1:2"},{"type":"Box
+5","value":"9:1:2"},{"type":"Box 6","value":"5:1:1"},{"type":"Box
+7","value":"12:3:1"},{"type":"Box
+8","value":"9:2:4"}],"plc_div":null,"plc_rate":null,"prize":"$34,138.5","prize2":null,"win_div":null,"win_rate":null},"trainer":"R
+& L Udy","trainer_district":"Te
+Kauwhata","weight":0,"win_record":null},"sire":null,"trainer":null},{"jockey":null,"runner":{"age":3.5,"barrier":null,"barrier_distance":null,"breeders":null,"breeding":"d
+black Oct 16 Barcia Bale-Flying
+Twist","breeding_extra":null,"class":"C2","colour":"black","comment":null,"fastest":"21.37","form":"46774","jockey":null,"jockey_extra":null,"notes":[],"number":4,"owners":"Marsha-
+Lee Black","performance":[{"date":"2020-03-19","filters":["Box
+5"],"record":["WAKG","CAM","19 Mar 2020","7 days 4th of 7","C2 375m 30.8Kgs
+Box 5","644 $10.00 Time 21.60s Best 21.00s","Mgns 4.9L Giraffe
+Club"]},{"date":"2020-03-12","filters":["Box 8"],"record":["WAKG","CAM","12
+Mar 2020","7 days 7th of 8","C2 375m 32.1Kgs Box 8","667 $3.90 Time 21.58s
+Best 21.12s","Mgns 8.8L Talkabout Izzy"]},{"date":"2020-03-05","filters":["Box
+6"],"record":["AUKG","AK","05 Mar 2020","4 days 7th of 8","C2/3 527m 31.7Kgs
+Box 6","46767 $18.00 Time 30.97s Best 30.97s","Mgns 10.5L Frosty
+Blaze"]},{"date":"2020-03-01","filters":["Box 5"],"record":["AUKG","AK","01
+Mar 2020","3 days 6th of 8","C2/3 318m 31.3Kgs Box 5","566 $19.00 Time 18.49s
+Best 18.37s","Mgns 9.9L Kuridrani"]},{"date":"2020-02-27","filters":["Box
+1"],"record":["WAKG","CAM","27 Feb 2020","7 days 4th of 8","C3 375m 31.1Kgs
+Box 1","544 $8.20 Time 21.28s Best 20.94s","Mgns 9.5L Tres
+Vite"]}],"runner":"Flying
+Huey","scratched":false,"sex":"d","silk_text":"4","silk_url":"https://static.tab.co.nz/silks/Grey-37-29-A87FF679A2F3E71D9181A67B7542122C.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"96:11:14:13:0"},{"type":"Track","value":"9:2:0"},{"type":"Track
+&
+Distance","value":"9:2:0"},{"type":"Sprint","value":"62:7:18"},{"type":"Middle","value":"34:4:9"},{"type":"Distance","value":"0:0:0"},{"type":"Box
+1","value":"10:1:4"},{"type":"Box 2","value":"13:1:4"},{"type":"Box
+3","value":"17:3:7"},{"type":"Box 4","value":"4:0:1"},{"type":"Box
+5","value":"19:0:4"},{"type":"Box 6","value":"11:0:2"},{"type":"Box
+7","value":"12:2:2"},{"type":"Box
+8","value":"10:4:3"}],"plc_div":null,"plc_rate":null,"prize":"$23,217","prize2":null,"win_div":null,"win_rate":null},"trainer":"Marsha
+Black","trainer_district":"Te
+Kauwhata","weight":0,"win_record":null},"sire":null,"trainer":null},{"jockey":null,"runner":{"age":4.2,"barrier":null,"barrier_distance":null,"breeders":null,"breeding":"b
+black Feb 16 Oaks Road-Sad
+Movies","breeding_extra":null,"class":"C3","colour":"black","comment":null,"fastest":"21.46","form":"15467","jockey":null,"jockey_extra":null,"notes":[],"number":5,"owners":"Green
+& Smiths Syndicate","performance":[{"date":"2020-03-22","filters":["Box
+2"],"record":["TOKG","CAM","22 Mar 2020","3 days 7th of 7","C4 375m 25Kgs Box
+2","117 $18.00 Time 21.52s Best 21.04s","Mgns 11.2L Monsoon
+Malabar"]},{"date":"2020-03-19","filters":["Box 7"],"record":["WAKG","CAM","19
+Mar 2020","4 days 6th of 8","C4 375m 25.1Kgs Box 7","876 $17.00 Time 21.25s
+Best 21.00s","Mgns 9.8L Our Hemi"]},{"date":"2020-03-15","filters":["Box
+3"],"record":["AUKG","AK","15 Mar 2020","3 days 4th of 8","C4 318m 24.9Kgs Box
+3","744 $27.00 Time 18.53s Best 18.41s","Mgns 3.3L Morton
+Keeping"]},{"date":"2020-03-12","filters":["Box 5"],"record":["WAKG","CAM","12
+Mar 2020","4 days 5th of 8","C4 375m 25Kgs Box 5","645 $18.00 Time 21.31s Best
+21.12s","Mgns 6.4L Typical"]},{"date":"2020-03-08","filters":["Box
+4"],"record":["AUKG","AK","08 Mar 2020","3 days 1st of 7","C3/4 318m 24.8Kgs
+Box 4","231 $15.00 Time 18.72s Best 18.35s","Mgns Ns Morton
+Keeping"]}],"runner":"Stay
+Rich","scratched":false,"sex":"b","silk_text":"5","silk_url":"https://static.tab.co.nz/silks/Grey-37-29-E4DA3B7FBBCE2345D7772B0674A318D5.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"142:17:17:27:0"},{"type":"Track","value":"58:6:16"},{"type":"Track
+&
+Distance","value":"56:6:15"},{"type":"Sprint","value":"139:17:43"},{"type":"Middle","value":"3:0:1"},{"type":"Distance","value":"0:0:0"},{"type":"Box
+1","value":"14:0:4"},{"type":"Box 2","value":"23:3:9"},{"type":"Box
+3","value":"22:7:4"},{"type":"Box 4","value":"17:3:5"},{"type":"Box
+5","value":"17:2:4"},{"type":"Box 6","value":"18:0:7"},{"type":"Box
+7","value":"14:0:4"},{"type":"Box
+8","value":"17:2:7"}],"plc_div":null,"plc_rate":null,"prize":"$29,559","prize2":null,"win_div":null,"win_rate":null},"trainer":"M
+& J Smith","trainer_district":"Takanini","weight":0,"win_record":["03/20 AUKG
+G C3/4 $2K 318 24.8 (4)
+18.72"]},"sire":null,"trainer":null},{"jockey":null,"runner":{"age":4.6,"barrier":null,"barrier_distance":null,"breeders":null,"breeding":"d
+black Sep 15 Piggy Back-Who
+Bobby","breeding_extra":null,"class":"C3","colour":"black","comment":null,"fastest":"21.03","form":"76845","jockey":null,"jockey_extra":null,"notes":[],"number":6,"owners":"Three
+Sisters Syndicate","performance":[{"date":"2020-03-22","filters":["Box
+5"],"record":["TOKG","CAM","22 Mar 2020","3 days 5th of 6","C3 375m 36Kgs Box
+5","455 $12.00 Time 21.32s Best 21.04s","Mgns 8.2L Madam
+Bucks"]},{"date":"2020-03-19","filters":["Box 7"],"record":["WAKG","CAM","19
+Mar 2020","21 days 4th of 6","C3 375m 35.8Kgs Box 7","544 $8.80 Time 21.54s
+Best 21.00s","Mgns 3.3L Thrilling
+Hudson"]},{"date":"2020-02-27","filters":["Box 1"],"record":["WAKG","CAM","27
+Feb 2020","3 days 8th of 8","C4/5 375m 36.3Kgs Box 1","888 $25.00 Time 21.02s
+Best 20.94s","Mgns 15.6L Too The Nail"]},{"date":"2020-02-24","filters":["Box
+4"],"record":["AUKG","AK","24 Feb 2020","4 days 6th of 8","C4 318m 36.7Kgs Box
+4","676 $22.00 Time 18.67s Best 18.59s","Mgns 7.1L Jinja
+Mongo"]},{"date":"2020-02-20","filters":["Box 6"],"record":["WAKG","CAM","20
+Feb 2020","4 days 7th of 7","C4 375m 36.7Kgs Box 6","777 $22.00 Time 21.35s
+Best 21.17s","Mgns 9.7L Raging Demon"]}],"runner":"Noah
+Who","scratched":false,"sex":"d","silk_text":"6","silk_url":"https://static.tab.co.nz/silks/Grey-37-29-1679091C5A880FAF6FB5E6087EB1B2DC.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"74:12:9:11:0"},{"type":"Track","value":"44:6:13"},{"type":"Track
+&
+Distance","value":"27:5:6"},{"type":"Sprint","value":"45:10:9"},{"type":"Middle","value":"29:2:11"},{"type":"Distance","value":"0:0:0"},{"type":"Box
+1","value":"10:3:4"},{"type":"Box 2","value":"8:2:3"},{"type":"Box
+3","value":"6:1:0"},{"type":"Box 4","value":"12:0:4"},{"type":"Box
+5","value":"7:0:0"},{"type":"Box 6","value":"8:1:2"},{"type":"Box
+7","value":"14:3:5"},{"type":"Box
+8","value":"9:2:2"}],"plc_div":null,"plc_rate":null,"prize":"$29,439","prize2":null,"win_div":null,"win_rate":null},"trainer":"M
+Prangley","trainer_district":"Clevedon","weight":0,"win_record":null},"sire":null,"trainer":null},{"jockey":null,"runner":{"age":3.3,"barrier":null,"barrier_distance":null,"breeders":null,"breeding":"b
+black Jan 17 My Bro Fabio-Cawbourne
+Cobra","breeding_extra":null,"class":"C3","colour":"black","comment":null,"fastest":"nwtd","form":"73355","jockey":null,"jockey_extra":null,"notes":[],"number":7,"owners":"I
+Pave Shirley Boys
+Syndicate","performance":[{"date":"2020-03-12","filters":["Box
+2"],"record":["WAKG","CAM","12 Mar 2020","7 days 5th of 8","C3/4 375m 30.2Kgs
+Box 2","555 $11.00 Time 21.12s Best 21.12s","Mgns 8.1L
+Charlow"]},{"date":"2020-03-05","filters":["Box 8"],"record":["AUKG","AK","05
+Mar 2020","7 days 5th of 8","C2/3 527m 29.6Kgs Box 8","65555 $7.90 Time 30.97s
+Best 30.97s","Mgns 6.8L Frosty Blaze"]},{"date":"2020-02-27","filters":["Box
+8"],"record":["WAKG","CAM","27 Feb 2020","7 days 3rd of 8","C3 375m 30.4Kgs
+Box 8","433 $7.10 Time 21.28s Best 20.94s","Mgns 4.1L Tres
+Vite"]},{"date":"2020-02-20","filters":["Box 8"],"record":["WAKG","CAM","20
+Feb 2020","4 days 3rd of 8","C3 375m 30Kgs Box 8","223 $3.60 Time 21.40s Best
+21.17s","Mgns 4.5L See Eye Be"]},{"date":"2020-02-16","filters":["Box
+2"],"record":["AUKG","AK","16 Feb 2020","7 days 7th of 8","C5 527m 29.8Kgs Box
+2","23357 $25.00 Time 30.82s Best 30.82s","Mgns 11.5L Grunt"]}],"runner":"Busy
+Flash","scratched":false,"sex":"b","silk_text":"7","silk_url":"https://static.tab.co.nz/silks/Grey-37-29-8F14E45FCEEA167A5A36DEDD4BEA2543.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"43:7:5:8:0"},{"type":"Track","value":"10:0:4"},{"type":"Track
+&
+Distance","value":"10:0:4"},{"type":"Sprint","value":"10:0:4"},{"type":"Middle","value":"33:7:9"},{"type":"Distance","value":"0:0:0"},{"type":"Box
+1","value":"8:4:4"},{"type":"Box 2","value":"6:1:1"},{"type":"Box
+3","value":"2:0:1"},{"type":"Box 4","value":"5:1:1"},{"type":"Box
+5","value":"2:0:0"},{"type":"Box 6","value":"7:0:1"},{"type":"Box
+7","value":"6:1:2"},{"type":"Box
+8","value":"7:0:3"}],"plc_div":null,"plc_rate":null,"prize":"$21,192","prize2":null,"win_div":null,"win_rate":null},"trainer":"W
+& T Steele","trainer_district":"Te
+Awamutu","weight":0,"win_record":null},"sire":null,"trainer":null},{"jockey":null,"runner":{"age":3.4,"barrier":null,"barrier_distance":null,"breeders":null,"breeding":"d
+black Dec 16 Kinloch Brae-Absolute
+Stunna","breeding_extra":null,"class":"C3","colour":"black","comment":null,"fastest":"21.31","form":"12767","jockey":null,"jockey_extra":null,"notes":[],"number":8,"owners":"Four
+Frothys Syndicate","performance":[{"date":"2020-03-22","filters":["Box
+5"],"record":["TOKG","CAM","22 Mar 2020","7 days 7th of 8","C3/4 457m 32.8Kgs
+Box 5","777 $41.00 Time 25.79s Best 25.28s","Mgns 6.8L Big Time
+Anton"]},{"date":"2020-03-15","filters":["Box 6"],"record":["AUKG","AK","15
+Mar 2020","3 days 6th of 6","C4/5 527m 30.2Kgs Box 6","15666 $12.00 Time
+30.70s Best 30.33s","Mgns 7.2L Spring
+Mechanic"]},{"date":"2020-03-12","filters":["Box
+7"],"record":["WAKG","CAM","12 Mar 2020","4 days 7th of 8","C4 375m 30.3Kgs
+Box 7","777 $18.00 Time 21.31s Best 21.12s","Mgns 9.5L
+Typical"]},{"date":"2020-03-08","filters":["Box 5"],"record":["AUKG","AK","08
+Mar 2020","3 days 2nd of 8","C3 527m 30.3Kgs Box 5","21112 $9.40 Time 30.72s
+Best 30.72s","Mgns 0.4L Kiwi Gal"]},{"date":"2020-03-05","filters":["Box
+4"],"record":["AUKG","AK","05 Mar 2020","7 days 1st of 8","C2/3 527m 30.3Kgs
+Box 4","21111 $5.10 Time 30.97s Best 30.97s","Mgns 0.4L Jinja
+Jay"]}],"runner":"Frosty
+Blaze","scratched":false,"sex":"d","silk_text":"8","silk_url":"https://static.tab.co.nz/silks/Grey-37-29-C9F0F895FB98AB9159F51FD0297E236D.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"78:11:9:10:0"},{"type":"Track","value":"25:3:6"},{"type":"Track
+&
+Distance","value":"10:2:2"},{"type":"Sprint","value":"11:2:2"},{"type":"Middle","value":"57:9:14"},{"type":"Distance","value":"10:0:3"},{"type":"Box
+1","value":"9:0:1"},{"type":"Box 2","value":"10:2:2"},{"type":"Box
+3","value":"11:0:3"},{"type":"Box 4","value":"8:2:2"},{"type":"Box
+5","value":"10:2:3"},{"type":"Box 6","value":"12:2:1"},{"type":"Box
+7","value":"10:1:5"},{"type":"Box
+8","value":"8:2:2"}],"plc_div":null,"plc_rate":null,"prize":"$29,208","prize2":null,"win_div":null,"win_rate":null},"trainer":"Thayne
+Green","trainer_district":"Papakura","weight":0,"win_record":["03/20 AUKG G
+C2/3 $3K 527 30.3 (4)
+30.97"]},"sire":null,"trainer":null},{"jockey":null,"runner":{"age":3.1,"barrier":null,"barrier_distance":null,"breeders":null,"breeding":"d
+black Mar 17 Fabregas-Opawa
+Stella","breeding_extra":null,"class":"C2","colour":"black","comment":null,"fastest":"nwtd","form":"57454","jockey":null,"jockey_extra":null,"notes":[],"number":9,"owners":"Opawa
+Racing Limited","performance":[{"date":"2020-03-22","filters":["Box
+2"],"record":["TOKG","CAM","22 Mar 2020","3 days 4th of 7","C1/2 457m 32.1Kgs
+Box 2","254 $10.00 Time 25.89s Best 25.28s","Mgns 6.3L Big Time
+Chad"]},{"date":"2020-03-19","filters":["Box 6"],"record":["WAKG","CAM","19
+Mar 2020","4 days 5th of 7","C2 375m 32.4Kgs Box 6","565 $12.00 Time 21.60s
+Best 21.00s","Mgns 5.6L Giraffe Club"]},{"date":"2020-03-15","filters":["Box
+2"],"record":["AUKG","AK","15 Mar 2020","7 days 4th of 8","C2/3 527m 32.1Kgs
+Box 2","35444 $19.00 Time 30.48s Best 30.33s","Mgns 6.1L Jinja
+Jay"]},{"date":"2020-03-08","filters":["Box 3"],"record":["AUKG","AK","08 Mar
+2020","26 days 7th of 8","C3 527m 31.8Kgs Box 3","78777 $17.00 Time 30.72s
+Best 30.72s","Mgns 9.2L Kiwi Gal"]},{"date":"2020-02-11","filters":["Box
+8"],"record":["OTGG","DUN","11 Feb 2020","7 days 5th of 8","NZRSq 545m 32.4Kgs
+Box 8","45565 $15.00 Time 32.70s Best 32.53s","Mgns 4.6L Mr
+Blackjack"]}],"runner":"Eddie
+Hemi","scratched":true,"sex":"d","silk_text":"9","silk_url":"https://static.tab.co.nz/silks/Grey-37-29-45C48CCE2E2D7FBDEA1AFC51C7C6AD26.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"44:6:6:8:0"},{"type":"Track","value":"2:0:0"},{"type":"Track
+&
+Distance","value":"1:0:0"},{"type":"Sprint","value":"1:0:0"},{"type":"Middle","value":"43:6:14"},{"type":"Distance","value":"0:0:0"},{"type":"Box
+1","value":"9:3:2"},{"type":"Box 2","value":"7:1:2"},{"type":"Box
+3","value":"5:0:2"},{"type":"Box 4","value":"4:0:1"},{"type":"Box
+5","value":"4:0:3"},{"type":"Box 6","value":"5:0:0"},{"type":"Box
+7","value":"3:1:1"},{"type":"Box
+8","value":"7:1:3"}],"plc_div":null,"plc_rate":null,"prize":"$16,444","prize2":null,"win_div":null,"win_rate":null},"trainer":"W
+& T Steele","trainer_district":"Te
+Awamutu","weight":0,"win_record":null},"sire":null,"trainer":null},{"jockey":null,"runner":{"age":2.4,"barrier":null,"barrier_distance":null,"breeders":null,"breeding":"b
+blue Dec 17 My Bro Fabio-Who
+Bobby","breeding_extra":null,"class":"C2","colour":"blue","comment":null,"fastest":"nwtd","form":"62657","jockey":null,"jockey_extra":null,"notes":[],"number":10,"owners":"A
+J Christiansen","performance":[{"date":"2020-03-02","filters":["Box
+1"],"record":["PLMG","MANA","02 Mar 2020","4 days 7th of 7","C3/4 457m 26Kgs
+Box 1","577 $12.00 Time 26.22s Best 25.87s","Mgns 11.4L Silent
+Dismissal"]},{"date":"2020-02-27","filters":["Box
+6"],"record":["WAKG","CAM","27 Feb 2020","3 days 5th of 8","C3 375m 26.9Kgs
+Box 6","655 $4.70 Time 21.28s Best 20.94s","Mgns 11.5L Tres
+Vite"]},{"date":"2020-02-24","filters":["Box 2"],"record":["AUKG","AK","24 Feb
+2020","8 days 6th of 7","C3 527m 27.3Kgs Box 2","56676 $3.70 Time 30.78s Best
+30.78s","Mgns 15.6L Jinja Nice"]},{"date":"2020-02-16","filters":["Box
+3"],"record":["AUKG","AK","16 Feb 2020","6 days 2nd of 8","C3 527m 27.3Kgs Box
+3","42222 $5.70 Time 31.16s Best 30.82s","Mgns 1.1L Frosty
+Blaze"]},{"date":"2020-02-10","filters":["Box 8"],"record":["PLMG","MANA","10
+Feb 2020","8 days 6th of 8","C2/3 457m 27.5Kgs Box 8","756 $9.50 Time 25.93s
+Best 25.81s","Mgns 10.8L Emgrand Rose"]}],"runner":"Rod\'s
+Girl","scratched":true,"sex":"b","silk_text":"10","silk_url":"https://static.tab.co.nz/silks/Grey-37-29-D3D9446802A44259755D38E6D163E820.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"13:4:2:1:0"},{"type":"Track","value":"3:0:1"},{"type":"Track
+&
+Distance","value":"3:0:1"},{"type":"Sprint","value":"6:1:2"},{"type":"Middle","value":"7:3:1"},{"type":"Distance","value":"0:0:0"},{"type":"Box
+1","value":"1:0:0"},{"type":"Box 2","value":"2:0:1"},{"type":"Box
+3","value":"1:0:1"},{"type":"Box 4","value":"1:0:0"},{"type":"Box
+5","value":"2:1:1"},{"type":"Box 6","value":"2:1:0"},{"type":"Box
+7","value":"3:2:0"},{"type":"Box
+8","value":"1:0:0"}],"plc_div":null,"plc_rate":null,"prize":"$6,798","prize2":null,"win_div":null,"win_rate":null},"trainer":"Udy/Cottam","trainer_district":"Te
+Kauwhata","weight":0,"win_record":null},"sire":null,"trainer":null}],"form_title":"Last
+5 Starts, X = Spell (90 days or
+more)","gear_changes":null,"id":"2020-05-07-m3-r7","length":375,"m_date":"2020-05-07","m_name":"Cambridge
+Dogs","m_number":3,"r_name":"AFFORDABLE PET ACCESSORIES
+SPRINT","r_number":7,"rail_position":null,"runner_perf_headers":[{"desc":"Track","header":"Venue"},{"desc":null,"header":null},{"desc":"Date
+of previous race","header":"Date"},{"desc":"Days since last start / Finishing
+position","header":"Finishing position"},{"desc":"Race class / Race distance /
+Racing weight / Box","header":"Class, Distance, Weight,
+Box"},{"desc":"Position at certain sections during the running / Favouritism /
+Winners time / Best time of day","header":"Race position, Favouritism,
+Times"},{"desc":"Margins / First or second placed
+greyhound","header":"Margins, 1st/2nd placed
+Greyhound"}],"runner_stat_descriptions":[{"desc":"Record from Box 8. Starts :
+Wins : Placings","type":"Box 8"},{"desc":"Record at this track and distance.
+Starts : Wins : Placings","type":"Track & Distance"},{"desc":"Record over
+middle distances (400 metres - 599 metres). Starts : Wins :
+Placings","type":"Middle"},{"desc":"Record over Staying distances (600 metres
+or over). Starts : Wins : Placings","type":"Distance"},{"desc":"Record from
+Box 5. Starts : Wins : Placings","type":"Box 5"},{"desc":"Record from Box 1.
+Starts : Wins : Placings","type":"Box 1"},{"desc":"Record on this track.
+Starts : Wins : Placings","type":"Track"},{"desc":"Career starts. Starts :
+Wins : 2nd placings : 3rd placings : 4th
+placings","type":"All"},{"desc":"Record from Box 7. Starts : Wins :
+Placings","type":"Box 7"},{"desc":"Record from Box 4. Starts : Wins :
+Placings","type":"Box 4"},{"desc":"Record from Box 2. Starts : Wins :
+Placings","type":"Box 2"},{"desc":"Record from Box 3. Starts : Wins :
+Placings","type":"Box 3"},{"desc":"Record from Box 6. Starts : Wins :
+Placings","type":"Box 6"},{"desc":"Record over sprint distances (399 metres or
+fewer). Starts : Wins :
+Placings","type":"Sprint"}],"speedmap":[{"box":1,"e_number":1,"speed":7.8},{"box":2,"e_number":2,"speed":7.9},{"box":3,"e_number":3,"speed":6.9},{"box":4,"e_number":4,"speed":4.6},{"box":5,"e_number":5,"speed":5.8},{"box":6,"e_number":6,"speed":3.4},{"box":7,"e_number":7,"speed":5.9},{"box":8,"e_number":8,"speed":6.1},{"box":9,"e_number":9,"speed":6.6},{"box":10,"e_number":10,"speed":5}],"stake":"$2,035","start":{"$DateTime":1588816500000},"status":"OK","track":"Good","type":"GR","venue":"Cambridge","weather":"Fine"}}},"meetingSizes":{"2020-05-07-m3":{"status":"SUCCESS","data":10}}};\n
+var modern = typeof Symbol === \'function\' && typeof Symbol.matchAll ===
+\'symbol\';\n\n var loadScript = function(src, onload) {\n var script =
+document.createElement(\'script\');\n script.src = \'/\' + src;\n
+script.addEventListener(\'load\', onload);\n
+document.head.appendChild(script);\n };\n\n var loadApp = function() {\n var
+fn = \'renderApp\' + Math.floor(Date.now() / 10000);\n
+loadScript(\'main.js?fn=\' + fn, function() {\n window[fn]({ app: \'extended-
+form\', element: div, basePath: \'/extended-form\', state: state });\n });\n
+};\n\n modern ? loadApp() : loadScript(\'corejs.js\', loadApp);\n})();\n\n'
+
